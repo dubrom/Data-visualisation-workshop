@@ -1,4 +1,4 @@
-Data-visualisation-workshop
+Data visualisation workshop
 ===========================
 
 Données et démos créées par les professeurs dans le cadre de l' [atelier dédié à la visualisation de données](http://dwm.re/data-visualisation-workshop/).
