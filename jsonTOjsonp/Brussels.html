@@ -1,6 +1,7 @@
 <html>
 <head><title>Brussels Mobility</title></head>
 <body>
+  <div id="toFill"></div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 <script>
   /*
@@ -60,9 +61,12 @@
 		    Result.RED=RED;
 		    now=new Date();
 		    Result.when=now.toISOString();
+		    resString=JSON.stringify(Result);
+		    $("#toFill").text(resString);
+		    //$.post("http://christian-delfosse.infographie-heaj.eu/Test/storeMobility.php",{"res":resString});// to keep a trace
+		    resultList.push(Result);
+		    console.log(resultList);
 		  });
-	resultList.push(Result);
-	console.log(resultList);
       }
       collectData();// setInterval does not start immediately
       Timer=setInterval(collectData,2.1*60*1000); // they update every two minutes
