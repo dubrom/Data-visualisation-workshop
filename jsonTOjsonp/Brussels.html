@@ -30,7 +30,7 @@
       }
       function collectData(){
 	var Result=new Object();
-	Result={"RED":0,"GREEN":0,"ORANGE":0,"cntGREEN":0,"cntORANGE":0,"cntRED":0,"when":0};
+	Result={RED:0,GREEN:0,ORANGE:0,cntGREEN:0,cntORANGE:0,cntRED:0,whenCollected:0};
 	$.getJSON("http://christian-delfosse.infographie-heaj.eu/Test/jsonTOjsonp.php?jsoncallback=?",// convert JSON to JSONP
 		  {url:"http://data.irisnetlab.be/data/levels_of_service/json/"},                     // the data provider
 		  function(data){
@@ -56,11 +56,11 @@
 			  }
 			}});
 		    //console.log(RED.toFixed(0));
-		    Result.GREEN=GREEN;
-		    Result.ORANGE=ORANGE;
-		    Result.RED=RED;
+		    Result.GREEN=GREEN.toFixed(0);
+		    Result.ORANGE=ORANGE.toFixed(0);
+		    Result.RED=RED.toFixed(0);
 		    now=new Date();
-		    Result.when=now.toISOString();
+		    Result.whenCollected=now.toISOString();
 		    resString=JSON.stringify(Result);
 		    $("#toFill").text(resString);
 		    //$.post("http://christian-delfosse.infographie-heaj.eu/Test/storeMobility.php",{"res":resString});// to keep a trace
@@ -68,7 +68,7 @@
 		    console.log(resultList);
 		  });
       }
-      collectData();// setInterval does not start immediately
+      collectData();// because setInterval does not start immediately
       Timer=setInterval(collectData,2.1*60*1000); // they update every two minutes
     });
 </script>
