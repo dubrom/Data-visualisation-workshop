@@ -20,8 +20,8 @@
     function(){
       var resultList=[];
       var Timer;
-      function accumulateLength(value, soFar){
-	var runningTotal=soFar;
+      function accumulateLength(value){
+	var runningTotal=0;
 	$(value.geometry.coordinates.slice(1)).each(
 	  function(i,coord){// the data are in "Lambert 72" form, that is : X,Y
 	    runningTotal+=Math.sqrt(Math.pow((coord[0]-value.geometry.coordinates[i][0]),2)+Math.pow((coord[1]-value.geometry.coordinates[i][1]),2));
@@ -30,11 +30,11 @@
       }
       function collectData(){
 	var Result=new Object();
-	Result={RED:0,GREEN:0,ORANGE:0,cntGREEN:0,cntORANGE:0,cntRED:0,whenCollected:0};
+	Result={RED:0,GREEN:0,ORANGE:0,cntGREEN:0,cntORANGE:0,cntRED:0,whenCollected:0,REDvalues:[],ORANGEvalues:[],GREENvalues:[]};
 	$.getJSON("http://christian-delfosse.infographie-heaj.eu/Test/jsonTOjsonp.php?jsoncallback=?",// convert JSON to JSONP
 		  {url:"http://data.irisnetlab.be/data/levels_of_service/json/"},                     // the data provider
 		  function(data){
-		    var RED=0,ORANGE=0,GREEN=0, now;
+		    var RED=0,ORANGE=0,GREEN=0, now, calculated;
                     $(data.features).each(
 		      function(index,value){
 			if (!(value.geometry.type=="LineString"))
@@ -42,30 +42,41 @@
 			else {
 			  switch(value.properties.level_of_service){
 			  case "ORANGE":
-			    ORANGE=accumulateLength(value,ORANGE);
+			    calculated=accumulateLength(value);
+			    ORANGE+=calculated;// accumulate without truncation
+			    Result.ORANGEvalues.push(parseInt(calculated.toFixed(0)));
 			    Result.cntORANGE+=1;
 			    break;
 			  case "ROUGE":
-			    RED=accumulateLength(value,RED);
+			    calculated=accumulateLength(value);
+			    RED+=calculated;// accumulate without truncation
+			    Result.REDvalues.push(parseInt(calculated.toFixed(0)));
 			    Result.cntRED+=1;
 			    break;
 			  case "VERT":
-			    GREEN=accumulateLength(value,GREEN);
+			    calculated=accumulateLength(value);
+			    GREEN+=calculated;// accumulate without truncation
+			    Result.GREENvalues.push(parseInt(calculated.toFixed(0)));
 			    Result.cntGREEN+=1;
 			    break;
 			  }
 			}});
 		    //console.log(RED.toFixed(0));
-		    Result.GREEN=GREEN.toFixed(0);
-		    Result.ORANGE=ORANGE.toFixed(0);
-		    Result.RED=RED.toFixed(0);
+		    /* truncate at the end */
+		    Result.GREEN =parseInt(GREEN.toFixed(0));
+		    Result.ORANGE=parseInt(ORANGE.toFixed(0));
+		    Result.RED   =parseInt(RED.toFixed(0));
+		    /* and sort in decreasing mode on the values*/
+		    Result.REDvalues   .sort(function(a,b){return b-a});
+		    Result.ORANGEvalues.sort(function(a,b){return b-a});
+		    Result.GREENvalues .sort(function(a,b){return b-a});
 		    now=new Date();
 		    Result.whenCollected=now.toISOString();
 		    resString=JSON.stringify(Result);
-		    $("#toFill").text(resString);
+		    $("#toFill").text(resString);// so that one sees something happening
 		    //$.post("http://christian-delfosse.infographie-heaj.eu/Test/storeMobility.php",{"res":resString});// to keep a trace
 		    resultList.push(Result);
-		    console.log(resultList);
+		    console.log(resultList);// in order to view the values and their structure
 		  });
       }
       collectData();// because setInterval does not start immediately
