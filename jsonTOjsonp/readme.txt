@@ -12,3 +12,10 @@ sur mon serveur
 
 jsonTOjsonp.php est la source de ce script à placer sur un serveur
 perso
+
+Brussels.html crée une liste (accumulation) d'observations
+(toutes les deux minutes, fréquence de mise à jour du site),
+chacune d'elle reprenant :
+le cumul en mètres des éléments de trafic (vert, orange, rouge),
+le nombre d'éléments rapportés,
+et un time tag
