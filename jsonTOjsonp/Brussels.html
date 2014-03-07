@@ -74,7 +74,7 @@
 		    Result.whenCollected=now.toISOString();
 		    resString=JSON.stringify(Result);
 		    $("#toFill").text(resString);// so that one sees something happening
-		    //$.post("http://christian-delfosse.infographie-heaj.eu/Test/storeMobility.php",{"res":resString});// to keep a trace
+		    $.post("http://christian-delfosse.infographie-heaj.eu/Test/storeMobility.php",{"res":resString});// to keep a trace
 		    resultList.push(Result);
 		    console.log(resultList);// in order to view the values and their structure
 		  });
