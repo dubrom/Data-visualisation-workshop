@@ -16,6 +16,10 @@ perso
 Brussels.html crée une liste (accumulation) d'observations
 (toutes les deux minutes, fréquence de mise à jour du site),
 chacune d'elle reprenant :
-le cumul en mètres des éléments de trafic (vert, orange, rouge),
+la liste des longueurs des élémentes de trafic (vert, orange, rouge),
+le cumul en mètres de ces éléments,
 le nombre d'éléments rapportés,
 et un time tag
+
+en option, on peut stocker les résultats (pour faire un replay?)
+
