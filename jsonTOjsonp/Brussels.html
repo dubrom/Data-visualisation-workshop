@@ -28,11 +28,12 @@
 	return runningTotal;
       }
       function collectData(){
-	var Result={"RED":0,"GREEN":0,"ORANGE":0,"cntGREEN":0,"cntORANGE":0,"cntRED":0};
+	var Result=new Object();
+	Result={"RED":0,"GREEN":0,"ORANGE":0,"cntGREEN":0,"cntORANGE":0,"cntRED":0,"when":0};
 	$.getJSON("http://christian-delfosse.infographie-heaj.eu/Test/jsonTOjsonp.php?jsoncallback=?",// convert JSON to JSONP
 		  {url:"http://data.irisnetlab.be/data/levels_of_service/json/"},                     // the data provider
 		  function(data){
-		    var RED=0,ORANGE=0,GREEN=0;
+		    var RED=0,ORANGE=0,GREEN=0, now;
                     $(data.features).each(
 		      function(index,value){
 			if (!(value.geometry.type=="LineString"))
@@ -57,12 +58,14 @@
 		    Result.GREEN=GREEN;
 		    Result.ORANGE=ORANGE;
 		    Result.RED=RED;
+		    now=new Date();
+		    Result.when=now.toISOString();
 		  });
 	resultList.push(Result);
 	console.log(resultList);
       }
       collectData();// setInterval does not start immediately
-      Timer=setInterval(collectData,2.1*60*1000);
+      Timer=setInterval(collectData,2.1*60*1000); // they update every two minutes
     });
 </script>
 </body></html>
