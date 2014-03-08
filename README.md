@@ -13,6 +13,5 @@ Ces démos montrent comment réaliser des visualisations sur base de:
 
 ##Données
 
-- Base de données de l'école: En Xls ici ou sur Google Drive: 
-https://docs.google.com/spreadsheet/ccc?key=0AhEweVeh8HjjdFJrOHRPX3lMNU4zNFZIUFgtRnhvQnc&usp=sharing
-- Autres sources de données disponibles sur http://dwm.re/dataviz/jeux-de-donnees/
+- Base de données de l'école: En xls sur Github ou sur [Google Drive](https://docs.google.com/spreadsheet/ccc?key=0AhEweVeh8HjjdFJrOHRPX3lMNU4zNFZIUFgtRnhvQnc&usp=sharing) 
+- Autres sources de données disponibles sur [dwm.re/dataviz](http://dwm.re/dataviz/jeux-de-donnees/)
