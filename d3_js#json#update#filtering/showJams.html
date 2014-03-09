@@ -38,7 +38,7 @@
 	  circles.exit().remove();
       };
       function processDataFilter(rawData){// apply a numerical filter
-	var filterCoeffs ={"0c":[],"3c":[// calculated by Octave as fir1(2,1/15) etc
+	var filterCoeffs ={"0c":[],"3c":[// calculated by Octave as fir1(2,1/15) etc, see http://vdl2-ase.wikispaces.com/HowTo+-+FIR+filter+design+in+GNU+Octave
 			     0.067458,0.868031,0.067458],
 			   "7c":[     0.023053,
 				      0.092622,
@@ -180,7 +180,7 @@
 	  data=processDataFilter(rawData);
 	  refreshGraph();
 	});
-      $.getJSON("AllQueries.php?database=mobility",
+      $.getJSON("http://christian-delfosse.infographie-heaj.eu/Test/AllQueries.php?database=mobility&callback=?",
 		function(jsonMobility){
 		  rawData=conditionData(jsonMobility.all.slice(0,-1));
 		  data=processData(rawData);
