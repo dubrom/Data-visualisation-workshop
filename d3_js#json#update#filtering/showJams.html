@@ -1,0 +1,193 @@
+<html><head><title>Traffic Jams</title></head>
+<body>
+  <h1>Longueurs d'embouteillage dans Bruxelles, depuis vendredi midi</h1>
+<div> Moyenne mobile <select id="movingAverage"></select></div>
+  <div> Filtre digital<select id="digitalFilter"></select></div>
+<div id="demo"></div>
+<div id="toFill"></div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+  $(document).ready(
+    function(){
+      const width=1200, height=800;
+      var widthFilter=0;
+      var noFilter=1;
+      var data={timestamp:"2014-03-07 13:06:09",value:[1600],id:"1000000"}, rawData;
+      var format = d3.time.format("%Y-%m-%d %H:%M:%S");
+      var dateFn = function(d) { return format.parse(d.timestamp) };
+      var keyFn=function(d){return d.id;};
+      var redFn=function(d){ return d.value[0];};
+      var svg = d3.select("#demo").append("svg:svg")
+	.attr("width", width)
+	.attr("height", height);
+      var refreshGraph = function() {
+	var circles=svg.selectAll("circle").data(data, keyFn);
+	var x = d3.time.scale()
+	  .range([10, width-20])
+	  .domain(d3.extent(data, dateFn));
+	var y = d3.scale
+	  .linear()
+	  .range([height-20, 10])
+	  .domain(d3.extent(data, redFn));
+	  circles.enter()
+	  .append("svg:circle")
+	  .attr("r", 1)
+	  .attr("cx", function(d) { return x(dateFn(d)) })
+	  .attr("cy", function(d) { return y(redFn(d)) });
+	  circles.exit().remove();
+      };
+      function processDataFilter(rawData){// apply a numerical filter
+	var filterCoeffs ={"0c":[],"3c":[// calculated by Octave as fir1(2,1/15) etc
+			     0.067458,0.868031,0.067458],
+			   "7c":[     0.023053,
+				      0.092622,
+				      0.235048,
+				      0.307435,
+				      0.235048,
+				      0.092622,
+				      0.023053
+],
+			   "15c":[  0.0079440,
+				    0.0138588,
+				    0.0304523,
+				    0.0563371,
+				    0.0870652,
+				    0.1161922,
+				    0.1370378,
+				    0.1446027,
+				    0.1370378,
+				    0.1161922,
+				    0.0870652,
+				    0.0563371,
+				    0.0304523,
+				    0.0138588,
+				    0.0079440
+],
+			   "29c":[ 6.3604e-04,
+				   1.3898e-03,
+				   2.8782e-03,
+				   5.5930e-03,
+				   9.9423e-03,
+				   1.6172e-02,
+				   2.4306e-02,
+				   3.4113e-02,
+				   4.5107e-02,
+				   5.6589e-02,
+				   6.7711e-02,
+				   7.7573e-02,
+				   8.5330e-02,
+				   9.0288e-02,
+				   9.1993e-02,
+				   9.0288e-02,
+				   8.5330e-02,
+				   7.7573e-02,
+				   6.7711e-02,
+				   5.6589e-02,
+				   4.5107e-02,
+				   3.4113e-02,
+				   2.4306e-02,
+				   1.6172e-02,
+				   9.9423e-03,
+				   5.5930e-03,
+				   2.8782e-03,
+				   1.3898e-03,
+				   6.3604e-04
+]};
+
+
+	result=[];
+	var currentFilter=filterCoeffs[widthFilter.toString()+"c"].slice();
+	$(rawData).each(
+	  function(i,objectValue){
+	    if (i<widthFilter)
+	      return;
+	    var item=new Object(), tempVal=objectValue.jsonData.RED;
+	    var accu=0;
+	    item.timestamp=objectValue.timestamp;
+	    item.id=widthFilter.toString()+"_"+objectValue.id.toString();
+	    if (noFilter==1)
+	      tempVal=tempVal;
+	    else try {
+	      for (j=0;j<widthFilter;j++){
+		accu+=rawData[i-j].jsonData.RED*currentFilter[j];
+	      }
+	      tempVal=accu;
+	    } catch(err){
+	      console.log("error at "+i);
+	    };
+	    item.value=[tempVal];
+	    result.push(item);
+	  });
+	return result;
+      }
+      function processData(rawData){// apply a moving average
+	result=[];
+	$(rawData).each(function(i,objectValue){
+			  var item=new Object(), tempVal=objectValue.jsonData.RED;
+			  var accu=0;
+			  item.timestamp=objectValue.timestamp;
+			  item.id=widthFilter.toString()+"_"+objectValue.id.toString();
+			  try {
+			    if (noFilter==1.)
+			      tempVal=tempVal;
+			    else {
+			      for (j=-Math.floor(widthFilter/2);j<Math.ceil(widthFilter/2);j++){
+				accu+=rawData[i+j].jsonData.RED;
+			      }
+			      tempVal=accu/widthFilter;
+			    }
+
+			  } catch(err){
+			    //console.log("error at "+i);
+			  };
+			  item.value=[tempVal];
+			  result.push(item);
+			});
+	return result;
+      }
+      function conditionData(rawData){// for historical reasons, some elements in the database have strings instead of numbers
+	var result=[];
+	$(rawData).each(
+	  function(i,objectValue){
+	    if (!(typeof objectValue.jsonData.RED=="number"))
+	      objectValue.jsonData.RED=parseInt(objectValue.jsonData.RED);
+	    result.push(objectValue);
+	  });
+	  return result;
+      }
+      var selectOptions=$("#movingAverage");
+      $([{value:0,Name:"sans filtrage"},{value:3,Name:"5 minutes"},{value:7,Name:"15 minutes"},{value:15,Name:"30 minutes"},{value:29,Name:"une heure"}]).
+	each(function(i,option){
+	       selectOptions.append($("<option />").val(option.value).text(option.Name));
+	       });
+      selectOptions.change(
+	function(){
+	  widthFilter=this.value;
+	  noFilter=widthFilter==0?1.0:0.5;
+	  data=processData(rawData);
+	  refreshGraph();
+	});
+      var selectFilterOptions=$("#digitalFilter");
+      $([{value:0,Name:"sans filtrage"},{value:3,Name:"comme 5 minutes"},{value:7,Name:"comme 15 minutes"},{value:15,Name:"comme 30 minutes"},{value:29,Name:"comme 1 heure"}]).
+	each(function(i,option){
+	       selectFilterOptions.append($("<option />").val(option.value).text(option.Name));
+	       });
+      selectFilterOptions.change(
+	function(){
+	  widthFilter=this.value;
+	  noFilter=widthFilter==0?1.0:0.5;
+	  data=processDataFilter(rawData);
+	  refreshGraph();
+	});
+      $.getJSON("AllQueries.php?database=mobility",
+		function(jsonMobility){
+		  rawData=conditionData(jsonMobility.all.slice(0,-1));
+		  data=processData(rawData);
+		  //console.log(data);
+		  refreshGraph();
+		});
+    });
+//inspiration : http://pothibo.com/2013/09/d3-js-how-to-handle-dynamic-json-data/
+</script>
+</body></html>
