@@ -16,7 +16,7 @@
       var data={timestamp:"2014-03-07 13:06:09",value:[1600],id:"1000000"}, rawData;
       var format = d3.time.format("%Y-%m-%d %H:%M:%S");
       var dateFn = function(d) { return format.parse(d.timestamp) };
-      var keyFn=function(d){return d.id;};
+      var keyFn=function(d){return d.id;};// make it such that old points leave the system
       var redFn=function(d){ return d.value[0];};
       var svg = d3.select("#demo").append("svg:svg")
 	.attr("width", width)
@@ -127,7 +127,7 @@
 			  var item=new Object(), tempVal=objectValue.jsonData.RED;
 			  var accu=0;
 			  item.timestamp=objectValue.timestamp;
-			  item.id=widthFilter.toString()+"_"+objectValue.id.toString();
+			  item.id=widthFilter.toString()+"_"+objectValue.id.toString();// when a filter is applied, points get a new id
 			  try {
 			    if (noFilter==1.)
 			      tempVal=tempVal;
