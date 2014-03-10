@@ -1,0 +1,804 @@
+Matric Info,Nom Elève,Prénom Elève,Année,Sexe,DateNaiss,Libellé de PaysNaiss,Ville Naissance,Libellé de Nationalité,Libellé de Pays AdEtudiant,CPost AdEtudiant,Commune AdEtudiant,Localité AdEtudiant,Résultat Juin,Résultat Septembre,Résultat Final,Résultat Final Mention
+0,deleted,Aurore,3TIB1,F,1982-10-01,Belgique,Bruxelles,Belgique,Belgique,5580,ROCHEFORT,ROCHEFORT,Ajournement,Admission,Admission,satisfaction
+1,deleted,Jordan,3TIC2,M,1984-05-30,Belgique,LIEGE,Belgique,Belgique,1180,UCCLE,BRUXELLES,Admission,,Admission,satisfaction
+2,deleted,Jordan,2TIC1,M,1985-07-10,Belgique,Libramont-Chevigny,Belgique,Belgique,5001,Namur,Belgrade,Ajournement,Admission,Admission,satisfaction
+3,deleted,Thibaut,3TIA1,M,1983-02-01,Belgique,Namur,Belgique,Belgique,6600,BASTOGNE,BASTOGNE,Ajournement,Refus,Refus,
+4,deleted,Steve,1TIB1,M,1987-01-20,Belgique,Montigny-le-Tilleul,Belgique,Belgique,3090,OVERIJSE,OVERIJSE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+5,deleted,Jean-Yves,1TIA2,M,1985-09-18,Belgique,Namur,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Refus,Refus,
+6,deleted,Kevin,2TID1,M,1987-08-14,Belgique,OUPEYE,Belgique,Belgique,5580,ROCHEFORT,ROCHEFORT,Ajournement,Refus,Refus,
+7,deleted,Valentin,1TIC2,M,1986-04-25,France,Saint-Quentin,France,France,59173,Blaringhem,Blaringhem,Ajournement,Refus,Refus,
+8,deleted,François,1TIA1,M,1987-07-09,Belgique,Virton,Belgique,Belgique,1348,OTTIGNIES-LOUVAIN-LA-NEUVE,LOUVAIN-LA-NEUVE,Ajournement,Admission,Admission,satisfaction
+9,deleted,Aveline,2TIB1,F,1986-03-27,Belgique,Soignies,Belgique,Belgique,5542,HASTIERE,HASTIERE,Ajournement,Refus,Refus,
+10,deleted,Lauri,2TIA3,M,1987-02-27,Belgique,CHARLEROI,Belgique,Belgique,1360,PERWEZ,PERWEZ,Admission,,Admission,satisfaction
+11,deleted,Nicolas,1TIA2,M,1985-05-02,Russie,Ulan-Ude,Russie,Belgique,5330,SART-BERNARD,SART-BERNARD,Ajournement,Refus,Refus,
+12,deleted,Julien,2TIB3,M,1987-07-06,Belgique,LIEGE,Belgique,Belgique,1210,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+13,deleted,Arnaud,2TIA3,M,1986-12-06,Belgique,Bruxelles,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+14,deleted,Anthony,1TIC2,M,1985-12-14,Belgique,ETTERBEEK,Belgique,Belgique,5100,WEPION,WEPION,Ajournement,Admission,Admission,distinction
+15,deleted,Mélanie,1TID1,F,1987-09-15,Belgique,Namur,Belgique,Belgique,62570,PIHEN,PIHEN,Ajournement,Refus,Refus,
+16,deleted,Jérôme,2TID1,M,1987-01-30,Belgique,Ixelles,Belgique,France,7400,LE TEIL,LE TEIL,Ajournement,Refus,Refus,
+17,deleted,Christopher,1TID2,M,1986-03-07,Belgique,Charleroi,Belgique,Belgique,1170,Watermael-Boitsfort,Bruxelles,Ajournement,Refus,Refus,
+18,deleted,Benjamin,1TIA2,M,1981-03-24,Cameroun,Douala,Cameroun,Belgique,5101,NAMUR,ERPENT,Ajournement,Refus,Refus,
+19,deleted,François,3TIA1,M,1986-05-14,Belgique,Namur,Belgique,Belgique,6120,Ham-sur-Heure-Nalinnes,Nalinnes,Admission,,Admission,grande distinction
+20,deleted,Marcos,1TIF1,M,1986-02-09,France,Grande-Synthe,France,Belgique,7060,SOIGNIES,SOIGNIES,Admission,,Admission,satisfaction
+21,deleted,Benjamin,1TIF2,M,1987-07-07,Belgique,Huy,Belgique,Belgique,1020,Laeken,Bruxelles,Ajournement,Admission,Admission,satisfaction
+22,deleted,Romain,3TIC2,M,1986-08-23,Belgique,CHARLEROI,Belgique,Belgique,1370,JODOIGNE,JODOIGNE,Admission,,Admission,satisfaction
+23,deleted,Océane,1TIA1,F,1988-02-05,Belgique,Namur,Belgique,Belgique,5650,YVES GOMEZEE,YVES GOMEZEE,Ajournement,Admission,Admission,satisfaction
+24,deleted,Bruno,1TID1,M,1985-04-20,Belgique,Leuven,Belgique,Belgique,5020,NAMUR,VEDRIN,Ajournement,Refus,Refus,
+25,deleted,Jérémy,1TIA1,M,1987-07-28,Belgique,Marche-en-Famenne,Belgique,Belgique,5100,NAMUR,NAMUR,Ajournement,Admission,Admission,satisfaction
+26,deleted,Natasha,3TIB1,F,1985-10-28,Belgique,ETTERBEEK,Belgique,Belgique,6470,SIVRY-RANCE,SIVRY,Ajournement,Admission,Admission,satisfaction
+27,deleted,Joséphine,1TIB2,F,1988-10-27,Belgique,Bruxelles,Belgique,Belgique,7000,MONS,MONS,Ajournement,Refus,Refus,
+28,deleted,Nicolas,1TIA2,M,1987-01-12,Belgique,Arlon,Belgique,Belgique,1300,WAVRE,WAVRE,Ajournement,Refus,Refus,
+29,deleted,Céline,3TIB2,F,1986-06-22,Belgique,Ottignies,Belgique,Belgique,1367,RAMILLIES,GRAND-ROSIERE-HOTTOMONT,Ajournement,Admission,Admission,satisfaction
+30,deleted,Nathan,2TID2,M,1985-11-23,France,Troyes,France,Belgique,7100,LA LOUVIERE,LA LOUVIERE,Ajournement,Refus,Refus,
+31,deleted,Simon,1TIC2,M,1987-02-27,Belgique,Namur,Belgique,Belgique,5170,PROFONDEVILLE,PROFONDEVILLE,Ajournement,Refus,Refus,
+32,deleted,Antoine,1TIB1,M,1986-05-19,Belgique,Charleroi,Belgique,Belgique,7110,LA LOUVIERE,MAURAGE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+33,deleted,Diana,1TIB1,F,1984-11-11,Belgique,Ixelles,Belgique,Belgique,5570,Beauraing,Beauraing,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+34,deleted,Yves,3TIA2,M,1980-06-17,Belgique,Namur,Belgique,Belgique,5020,Namur,Vedrin,Ajournement,Refus,Refus,
+35,deleted,Adrien,1TIB1,M,1986-06-09,Belgique,Ixelles,Belgique,Belgique,5060,Sambreville,Falisolle,Ajournement,Refus,Refus,
+36,deleted,Marine,1TIB2,F,1981-08-29,France,Saumur,France,Belgique,4130,Liège,Tilff,Ajournement,Refus,Refus,
+37,deleted,Kévin,2TIA2,M,1985-03-28,Belgique,Bruxelles,Belgique,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+38,deleted,Julie,1TID2,F,1988-04-08,Belgique,Bruxelles,Belgique,Belgique,6238,PONT-A-CELLES,LIBERCHIES,Ajournement,Refus,Refus,
+39,deleted,Sabrina,1TIE1,F,1983-12-25,France,CHAMPIGNY-SUR-MARNE,France,France,59000,LILLE,LILLE,Ajournement,Admission,Admission,distinction
+40,deleted,Katleen,1TIC1,F,1987-07-23,France,Grand-Bourg,France,France,62640,MONTIGNY-EN-GOHELLE,MONTIGNY-EN-GOHELLE,Ajournement,Refus,Refus,
+41,deleted,Simon,2TID1,M,1985-02-18,Belgique,Dinant,Belgique,Belgique,1933,Zaventem,Sterrebeek,Ajournement,Refus,Refus,
+42,deleted,Aline,1TIA2,F,1988-11-26,Belgique,Liège,Belgique,Belgique,7110,LA LOUVIERE,MAURAGE,Ajournement,Admission,Admission,satisfaction
+43,deleted,Corentin,3TID1,M,2004-07-21,France,Briey,France,Belgique,6700,Arlon,Arlon,Admission,,Admission,satisfaction
+44,deleted,Jean-Pierre,2TID1,M,1984-10-16,Belgique,CHARLEROI,Belgique,Belgique,5100,Namur,Jambes,Admission,,Admission,distinction
+45,deleted,Manuel,2TIC1,M,1984-08-20,Belgique,Bruxelles,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+46,deleted,Amaury,1TIF2,M,1985-09-22,Belgique,Namur,Belgique,Belgique,7700,Mouscron,Mouscron,Ajournement,Refus,Refus,
+47,deleted,Damien,1TIA1,M,1986-11-01,Belgique,Charleroi,Belgique,Belgique,4280,HANNUT,HANNUT,Ajournement,Refus,Refus,
+48,deleted,Amaury,3TIB1,M,1982-06-05,Belgique,Etterbeek,Belgique,Belgique,1030,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+49,deleted,Quentin,1TIE1,M,1987-08-05,France,Mont-Saint-Martin,France,Belgique,5100,JAMBES,JAMBES,Ajournement,Admission,Admission,satisfaction
+50,deleted,Sébastien,1TIF1,M,1987-06-06,Belgique,CHARLEROI,Belgique,Belgique,5150,FLOREFFE,FRANIERE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+51,deleted,Renaud,1TIB2,M,1988-03-10,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,7618,RUMES,TAINTIGNIES,Ajournement,Refus,Refus,
+52,deleted,Marine,1TIA2,F,1985-01-13,France,Saint-Jean de Braye,France,Belgique,6010,CHARLEROI,COUILLET,Ajournement,Refus,Refus,
+53,deleted,Kévin,2TIA1,M,1984-07-07,Belgique,Chimay,Belgique,Belgique,5650,WALCOURT,WALCOURT,Ajournement,Refus,Refus,
+54,deleted,Sébastien,2TIA1,M,1987-02-08,Belgique,NAMUR,Belgique,Belgique,59240,DUNKERQUE,DUNKERQUE,Ajournement,Admission,Admission,satisfaction
+55,deleted,Nicolas,3TIA1,M,1982-07-17,Belgique,Ixelles,Belgique,Belgique,5380,FERNELMONT,MARCHOVELETTE,Ajournement,Admission,Admission,satisfaction
+56,deleted,François,2TIB1,M,1985-01-16,Belgique,Namur,Belgique,Belgique,1325,CHAUMONT-GISTOUX,CORROY-LE-GRAND,Ajournement,Refus,Refus,
+57,deleted,Mathilde,3TIB2,F,1986-12-29,Belgique,Charleroi,Belgique,Belgique,1367,RAMILLIES,GEROMPONT,Ajournement,Admission,Admission,satisfaction
+58,deleted,Didier,1TIF1,M,1983-07-24,Belgique,Charleroi,Belgique,Belgique,6760,VIRTON,ETHE,Ajournement,Admission,Admission,satisfaction
+59,deleted,Thomas,2TIB2,M,1982-07-15,Belgique,Gosselies,Belgique,Belgique,1480,TUBIZE,TUBIZE,Ajournement,Refus,Refus,
+60,deleted,Axel,1TIF2,M,1986-06-23,Belgique,NAMUR,Belgique,Belgique,6180,Courcelles,Courcelles,Ajournement,Refus,Refus,
+61,deleted,Romain,1TIB2,M,1987-06-13,Belgique,Charleroi,Belgique,Belgique,6120,HAM-SUR-HEURE,HAM-SUR-HEURE,Admission,,Admission,satisfaction
+62,deleted,Maurin,2TIC1,M,1985-03-22,Belgique,Verviers,Belgique,Belgique,1410,WATERLOO,WATERLOO,Ajournement,Refus,Refus,
+63,deleted,Hüseyin,3TIB2,M,1983-10-12,Belgique,CHARLEROI,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Refus,Refus,
+64,deleted,Laura,2TIB1,F,1969-10-15,Belgique,Marche-en-Famenne,Belgique,Belgique,5575,GEDINNE,GEDINNE,Ajournement,Admission,Admission,satisfaction
+65,deleted,Adriano,1TIA1,M,1985-01-17,Belgique,Bruxelles,Belgique,Belgique,6530,Thuin,Thuin,Ajournement,Refus,Refus,
+66,deleted,Kevin,2TIA3,M,1987-10-19,Belgique,Anderlecht,Belgique,Belgique,1330,RIXENSART,RIXENSART,Ajournement,Refus,Refus,
+67,deleted,Benjamin,1TIC1,M,1983-12-30,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,5300,ANDENNE,ANDENNE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+68,deleted,Camille,1TID1,M,1986-05-14,Belgique,Etterbeek,Belgique,Belgique,6700,Arlon,Sesselich,Admission,,Admission,satisfaction
+69,deleted,Ahmed,2TIA3,M,1987-05-22,France,Saumur,France,France,27420,CHATEAU SUR EPTE,CHATEAU SUR EPTE,Ajournement,Refus,Refus,
+70,deleted,Alexandre,1TID2,M,1987-03-26,France,Périgueux,France,Belgique,1850,Grimbergen,Grimbergen,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+71,deleted,Camille,3TIB1,F,1982-05-12,France,Croix,France,Belgique,1300,Ottignies-Louvain-la-Neuve,Limal,Admission,,Admission,distinction
+72,deleted,Anelita,2TIB3,F,1986-12-19,Belgique,Namur,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Ajournement,Refus,Refus,
+73,deleted,Paolo,2TIB1,M,1986-06-30,Belgique,Etterbeek,Belgique,Belgique,5170,PROFONDEVILLE,PROFONDEVILLE,Ajournement,Refus,Refus,
+74,deleted,Kevin,2TIB1,M,1985-03-13,Belgique,Charleroi,Belgique,Belgique,4620,Fléron,Fléron,Ajournement,Admission,Admission,satisfaction
+75,deleted,Karim,1TIB1,M,1987-06-09,Belgique,Berchem-Sainte-Agathe,Belgique,Belgique,5150,FLOREFFE,SOYE,Ajournement,Admission,Admission,satisfaction
+76,deleted,Logan,2TIA1,M,1987-10-28,France,Cherbourg,France,France,76690,FONTAINE-LE-BOURG,FONTAINE-LE-BOURG,Ajournement,Admission,Admission,satisfaction
+77,deleted,Jean-Philippe,1TIA2,M,1988-04-09,Belgique,Liège,Belgique,Belgique,5537,Anhée,Bioul,Ajournement,Admission,Admission,satisfaction
+78,deleted,Charlaine,1TIB1,F,1985-06-28,Belgique,Charleroi,Belgique,Belgique,1070,Bruxelles,Bruxelles,Ajournement,Refus,Refus,
+79,deleted,Jordan,1TIC2,M,1987-09-19,Belgique,SAINT-JOSSE-TEN-NOODE,Belgique,Belgique,6061,CHARLEROI,MONTIGNIES-SUR-SAMBRE,Admission,,Admission,distinction
+80,deleted,Antoine,3TIB1,M,1985-08-04,Belgique,Namur,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Admission,,Admission,grande distinction
+81,deleted,Joachim,1TIB1,M,1987-05-22,Belgique,Charleroi,Belgique,Belgique,1360,PERWEZ,PERWEZ,Ajournement,Refus,Refus,
+82,deleted,Nicolas,1TIA1,M,1988-07-18,France,Vitry-le-François,France,Belgique,6747,SAINT-LEGER (LUXEMBOURG),SAINT-LEGER,Ajournement,Admission,Admission,satisfaction
+83,deleted,Philippe,3TID1,M,1984-07-18,Belgique,Namur,Belgique,Belgique,6900,MARCHE-EN-FAMENNE,MARCHE-EN-FAMENNE,Admission,,Admission,satisfaction
+84,deleted,Catherine,2TIA2,F,1986-08-10,Belgique,Charleroi,Belgique,Belgique,6110,MONTIGNY-LE-TILLEUL,MONTIGNY-LE-TILLEUL,Ajournement,Admission,Admission,distinction
+85,deleted,Pierre,1TID2,M,1984-11-28,Autriche,Cologne,Autriche,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+86,deleted,Julie,3TIC2,F,1984-07-25,Belgique,Etterbeek,Belgique,Belgique,5060,Sambreville,Arsimont,Admission,,Admission,satisfaction
+87,deleted,Gilles,1TIB2,M,1988-11-26,Belgique,Charleroi,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+88,deleted,Bertrand,2TIB2,M,1987-02-24,Belgique,Charleroi,Belgique,Belgique,1000,BRUXELLES,BRUXELLES,Admission,,Admission,satisfaction
+89,deleted,Arup,3TIA2,M,1984-10-10,Belgique,Liège,Belgique,Belgique,5190,Jemeppe-sur-Sambre,Spy,Ajournement,Refus,Refus,
+90,deleted,Romain,2TID2,M,1983-01-28,Nigéria,Ibadan,Belgique,Belgique,5190,SPY,SPY,Admission,,Admission,satisfaction
+91,deleted,Jérôme,1TIE2,M,1985-03-08,Belgique,Malmedy,Belgique,Belgique,5640,Mettet,Saint-Gérard,Ajournement,Refus,Refus,
+92,deleted,Donovan,3TIC1,M,1986-12-15,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,1332,Rixensart,Genval,Admission,,Admission,distinction
+93,deleted,Cem,1TIE2,M,1986-07-10,Belgique,Huy,Belgique,Belgique,1457,WALHAIN,WALHAIN,Ajournement,Refus,Refus,
+94,deleted,Grégory,3TIC2,M,1985-10-03,Belgique,Bruxelles,Belgique,Belgique,1933,Zaventem,Sterrebeek,Ajournement,Admission,Admission,satisfaction
+95,deleted,Laurent,3TIC1,M,1985-06-13,Belgique,Namur,Belgique,Belgique,4030,LIEGE,GRIVEGNEE,Admission,,Admission,satisfaction
+96,deleted,Christopher,1TID2,M,1986-09-23,Belgique,Chimay,Belgique,Belgique,49290,BOURGNEUF EN MAUGES,BOURGNEUF EN MAUGES,Ajournement,Refus,Refus,
+97,deleted,Maya,2TIC2,F,1986-05-31,Belgique,Bruxelles,Belgique,Belgique,7911,Frasnes-lez-Anvaing,Oeudeghien,Admission,,Admission,distinction
+98,deleted,Lorena,2TIB3,F,1987-09-14,Belgique,Tournai,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+99,deleted,Titouan,1TIA1,M,1985-07-31,Belgique,Binche,Belgique,Belgique,1341,OTTIGNIES-LOUVAIN-LA-NEUVE,CEROUX-MOUSTY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+100,deleted,Corentin,1TIA1,M,1987-12-16,Belgique,Uccle,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+101,deleted,Quentin,1TIB2,M,1987-08-03,France,Lille,France,Belgique,1060,SAINT-GILLES,BRUXELLES,Admission,,Admission,distinction
+102,deleted,Riccardo,3TIB1,M,1981-08-20,Belgique,BOUSSU,Belgique,Belgique,62000,ARRAS,ARRAS,Ajournement,Refus,Refus,
+103,deleted,Louis,2TIC1,M,1987-05-11,Belgique,Uccle,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Refus,Refus,
+104,deleted,Caroline,1TIB1,F,1988-12-04,Belgique,Dinant,Belgique,Belgique,6900,MARCHE-EN-FAMENNE,ON,Admission,,Admission,distinction
+105,deleted,Raphaël,3TIC2,M,1982-08-10,Belgique,Etterbeek,Belgique,Belgique,5002,Namur,Saint-Servais,Admission,,Admission,satisfaction
+106,deleted,Nicolas,3TIB2,M,1982-05-22,Belgique,Liège,Belgique,Belgique,5000,Namur,Namur,Admission,,Admission,satisfaction
+107,deleted,Benoît,3TIC2,M,1983-11-03,Belgique,Uccle,Belgique,Belgique,7618,RUMES,TAINTIGNIES,Ajournement,Admission,Admission,satisfaction
+108,deleted,Mathieu,2TIA1,M,1985-06-08,Belgique,LA LOUVIERE,Belgique,Belgique,1340,Ottignies-Louvain-la-Neuve,Ottignies,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+109,deleted,Troy,2TIC2,M,1986-07-25,Belgique,Ottignies,Belgique,Belgique,5190,Jemeppe-sur-Sambre,Moustier-sur-Sambre,Ajournement,Admission,Admission,satisfaction
+110,deleted,Timothy,2TIB3,M,1985-04-28,France,Istres,France,France,8160,CHALANDRY-ELAIRE,CHALANDRY-ELAIRE,Ajournement,Refus,Refus,
+111,deleted,Adrien,3TIB1,M,1984-10-02,Belgique,ATH,Belgique,Belgique,5081,La Bruyère,Meux,Ajournement,Admission,Admission,satisfaction
+112,deleted,Louis,1TIC2,M,1988-08-25,Belgique,Charleroi,Belgique,Belgique,5590,CINEY,ACHENE,Ajournement,Refus,Refus,
+113,deleted,Yoannis,2TIA1,M,1986-02-11,Belgique,Braine-l'Alleud,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Refus,Refus,
+114,deleted,Sophie,1TIB2,F,1988-03-16,Autriche,HEERLEN,Belgique,Belgique,1495,VILLERS-LA-VILLE,VILLERS-LA-VILLE,Ajournement,Admission,Admission,satisfaction
+115,deleted,Nicolas,1TIE1,M,1986-07-05,Belgique,Charleroi,Belgique,Belgique,1435,MONT ST GUIBERT,MONT ST GUIBERT,Ajournement,Refus,Refus,
+116,deleted,Vincent,1TID1,M,1986-02-16,France,Caen,France,France,57300,HAGONDANGE,HAGONDANGE,Ajournement,Refus,Refus,
+117,deleted,Jérémy,3TIC1,M,1980-11-24,Belgique,Liège,Belgique,Belgique,5580,Rochefort,Han-sur-Lesse,Ajournement,Admission,Admission,satisfaction
+118,deleted,Jennifer,2TIA2,F,1987-09-21,Belgique,Bruxelles,Belgique,Belgique,1190,FOREST,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+119,deleted,Alexandre,2TIC1,M,1986-06-02,Belgique,Anderlecht,Belgique,Belgique,4218,HERON,COUTHUIN,Ajournement,Admission,Admission,satisfaction
+120,deleted,Mikhaël,2TIA1,M,1980-06-04,Belgique,ANDERLECHT,Belgique,Belgique,1325,Chaumont-Gistoux,Chaumont-Gistoux,Ajournement,Refus,Refus,
+121,deleted,Johann,2TIC1,M,1986-02-23,Belgique,Namur,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Refus,Refus,
+122,deleted,Victor,1TIC1,M,1987-06-05,Luxembourg,Luxembourg,Luxembourg,Belgique,4020,LIEGE,WANDRE,Admission,,Admission,distinction
+123,deleted,Alexander,2TIC1,M,1986-11-02,Belgique,Etterbeek,Belgique,Belgique,6061,CHARLEROI,MONTIGNIES-SUR-SAMBRE,Admission,,Admission,satisfaction
+124,deleted,Daphné,1TIA2,F,1988-03-31,Belgique,Charleroi,Belgique,Belgique,7700,MOUSCRON,MOUSCRON,Ajournement,Refus,Refus,
+125,deleted,René,2TIA1,M,1985-11-12,Belgique,CHARLEROI,Belgique,Belgique,1170,WATERMAEL-BOITSFORT,WATERMAEL-BOITSFORT,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+126,deleted,Martin,1TIE2,M,1988-02-06,Belgique,Namur,Belgique,Belgique,6940,DURBUY,DURBUY,Admission,,Admission,satisfaction
+127,deleted,Amélie,3TIB2,F,1985-08-27,Corée du Sud,Séoul,Belgique,Belgique,5140,Sombreffe,Ligny,Ajournement,Ajournement,Admission,satisfaction
+128,deleted,Alexis,2TIB3,M,1983-09-03,Belgique,Montigny-le-Tilleul,Belgique,Belgique,5081,LA BRUYERE,BOVESSE,Ajournement,Refus,Refus,
+129,deleted,Nathanael,1TIE1,M,1986-08-07,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,7536,Tournai,Vaulx,Ajournement,Refus,Refus,
+130,deleted,Baptiste,2TIC1,M,1986-08-20,Belgique,UCCLE,Belgique,Belgique,6041,CHARLEROI,GOSSELIES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+131,deleted,Sébastien,3TIA1,M,1985-10-19,Belgique,Renaix,Belgique,Belgique,1000,Bruxelles,Bruxelles,Admission,,Admission,distinction
+132,deleted,Benjamin,1TIF2,M,1985-08-27,Luxembourg,Luxembourg,Belgique,Belgique,6700,Arlon,Arlon,Ajournement,Refus,Refus,
+133,deleted,Thomas,2TIB3,M,1984-07-22,Belgique,Liège,Belgique,Belgique,7100,LA LOUVIERE,LA LOUVIERE,Ajournement,Refus,Refus,
+134,deleted,Valéry,3TID1,M,1984-04-22,Belgique,Namur,Belgique,Belgique,1400,NIVELLES,NIVELLES,Admission,,Admission,grande distinction
+135,deleted,Christophe,1TID1,M,1987-01-29,Belgique,Uccle,Belgique,Belgique,1140,Evere,Bruxelles,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+136,deleted,Thibaut,3TIA1,M,1981-04-10,Belgique,Charleroi,Belgique,Belgique,6230,Pont-à-Celles,Thiméon,Ajournement,Admission,Admission,distinction
+137,deleted,Antoine,3TIA2,M,1984-10-31,Belgique,Charleroi,Belgique,Belgique,1300,Wavre,Wavre,Ajournement,Admission,Admission,satisfaction
+138,deleted,François,1TIB2,M,1988-12-30,Belgique,Namur,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+139,deleted,Loïc,2TIA1,M,1985-04-18,Belgique,Dinant,Belgique,Belgique,4672,BLEGNY,SAINT-REMY,Ajournement,Admission,Admission,satisfaction
+140,deleted,Rémy,3TIA1,M,1984-07-31,Belgique,Marche-en-Famenne,Belgique,Belgique,5080,LA BRUYERE,LA BRUYERE,Admission,,Admission,satisfaction
+141,deleted,Camille,3TIC1,F,1984-08-29,Belgique,Montigny-le-Tilleul,Belgique,Belgique,5640,METTET,METTET,Admission,,Admission,satisfaction
+142,deleted,Perrine,2TIB3,F,1985-05-10,Roumanie,Mun. Baia Mare Jud. Maramures,Roumanie,Belgique,1435,MONT-SAINT-GUIBERT,MONT-SAINT-GUIBERT,Ajournement,Admission,Admission,distinction
+143,deleted,Valentin,1TIC1,M,1987-10-12,Belgique,Nivelles,Belgique,Belgique,1020,LAEKEN,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+144,deleted,Tom,1TIE2,M,1986-11-18,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,1300,OTTIGNIES-LOUVAIN-LA-NEUVE,LIMAL,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+145,deleted,Christophe,1TIA1,M,1987-01-19,Belgique,Huy,Belgique,Belgique,6600,BASTOGNE,BASTOGNE,Ajournement,Refus,Refus,
+146,deleted,Benjamin,2TIB3,M,1986-09-18,Belgique,Namur,Belgique,Belgique,1180,Uccle,Bruxelles,Ajournement,Refus,Refus,
+147,deleted,Christophe,2TIA3,M,1985-05-17,Belgique,ATH,Belgique,Belgique,1910,KAMPENHOUT,BERG,Ajournement,Admission,Admission,satisfaction
+148,deleted,Grégory,2TIC2,M,1985-04-08,Belgique,IXELLES,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Admission,Admission,satisfaction
+149,deleted,Clément,1TIC2,M,1987-06-23,Belgique,Namur,Belgique,Belgique,1700,Dilbeek,Dilbeek,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+150,deleted,Milan,1TIC2,M,1988-11-22,Belgique,Charleroi,Belgique,Belgique,5190,JEMEPPE-SUR-SAMBRE,SPY,Ajournement,Refus,Refus,
+151,deleted,Cédric,2TID1,M,1987-08-06,Belgique,LIEGE,Belgique,Belgique,5574,BEAURAING,PONDROME,Ajournement,Refus,Refus,
+152,deleted,Lucas,3TIB2,M,1982-02-19,Belgique,Virton,Belgique,Belgique,4460,GRACE-HOLLOGNE,GRACE-HOLLOGNE,Ajournement,Admission,Admission,satisfaction
+153,deleted,Charlotte,1TIB1,F,1987-12-22,Belgique,Etterbeek,Belgique,Belgique,4217,HERON,HERON,Ajournement,Refus,Refus,
+154,deleted,Jean-Yves,2TID2,M,1984-05-15,Congo République Démocratique,Lulumbashi,Belgique,Belgique,3090,Overijse,Overijse,Ajournement,Refus,Refus,
+155,deleted,Thomas,1TIA2,M,1987-05-05,Autriche,SOEST,Belgique,Belgique,5020,VEDRIN,VEDRIN,Ajournement,Refus,Refus,
+156,deleted,Kevyn,2TID1,M,1983-01-25,Belgique,UCCLE,Belgique,Belgique,4870,Trooz,Trooz,Ajournement,Admission,Admission,satisfaction
+157,deleted,Jerome,1TIC1,M,1986-10-09,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,5032,GEMBLOUX,BOSSIERE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+158,deleted,Pierre,3TIB2,M,1983-02-11,Belgique,Liège,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+159,deleted,Maïté,3TIB2,F,1982-03-16,Belgique,Uccle,Belgique,Belgique,4900,Spa,Spa,Ajournement,Admission,Admission,satisfaction
+160,deleted,Kévin,2TIA3,M,1981-08-07,Belgique,NAMUR,Belgique,Belgique,5574,BEAURAING,PONDROME,Ajournement,Refus,Refus,
+161,deleted,Frédéric,3TIA2,M,1986-06-14,Belgique,Etterbeek,Belgique,Belgique,1470,GENAPPE,GENAPPE,Admission,,Admission,satisfaction
+162,deleted,Maxime,2TIA1,M,1984-10-04,Belgique,Namur,Belgique,Belgique,7110,La Louvière,Houdeng-Goegnies,Ajournement,Refus,Refus,
+163,deleted,Cédric,3TID1,M,1983-07-08,Belgique,La Louvière,Belgique,Belgique,7811,ARBRE,ARBRE,Admission,,Admission,grande distinction
+164,deleted,Maxime,3TIC2,M,1981-11-10,Belgique,Charleroi,Belgique,Belgique,6000,CHARLEROI,CHARLEROI,Admission,,Admission,grande distinction
+165,deleted,Samuel,1TID1,M,1987-12-29,Belgique,ARLON,Belgique,Belgique,1380,Lasne,Lasne,Ajournement,Admission,Admission,satisfaction
+166,deleted,Régis,1TIB1,M,1984-11-01,Belgique,Etterbeek,Belgique,Belgique,7000,MONS,MONS,Ajournement,Refus,Refus,
+167,deleted,Quentin,1TIF2,M,1988-08-22,Belgique,Charleroi,Belgique,Belgique,59116,HOUPLINES (France),HOUPLINES (France),Ajournement,Refus,Refus,
+168,deleted,Samphy,1TIB1,M,1986-03-14,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,1150,Woluwe-Saint-Pierre,Bruxelles,Ajournement,Refus,Refus,
+169,deleted,Michaël,2TID2,M,1984-06-23,Belgique,Veurne,Belgique,Belgique,1640,RHODE-ST-GENESE,RHODE-ST-GENESE,Ajournement,Refus,Refus,
+170,deleted,Frédéric,2TID2,M,1984-12-29,Belgique,Anderlecht,Belgique,Belgique,1083,GANSHOREN,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+171,deleted,Bertrand,3TIA1,M,1983-06-12,Belgique,Mons,Belgique,Belgique,1780,Wemmel,Wemmel,Ajournement,Refus,Refus,
+172,deleted,Benjamin,3TIA2,M,1985-09-20,Côte d'Ivoire,Treichville,Belgique,Belgique,5537,ANHEE,WARNANT,Ajournement,Admission,Admission,satisfaction
+173,deleted,Renaud,1TID2,M,1985-03-19,Belgique,Libramont-Chevigny,Belgique,Belgique,6220,FLEURUS,LAMBUSART,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+174,deleted,Marjorie,1TIB2,F,1988-02-16,Belgique,Montegnée,Belgique,Belgique,7387,Honnelles,Honnelles,Admission,,Admission,satisfaction
+175,deleted,Guillaume,2TIC1,M,1985-01-27,Belgique,Bruxelles,Belgique,Belgique,4040,HERSTAL,HERSTAL,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+176,deleted,Thomas,2TIB1,M,1982-02-22,Belgique,SAMBREVILLE,Belgique,Belgique,1410,WATERLOO,WATERLOO,Ajournement,Refus,Refus,
+177,deleted,Isidore,3TIC1,M,1985-03-13,Belgique,Alost,Belgique,Belgique,6570,NAMUR,NAMUR,Admission,,Admission,satisfaction
+178,deleted,Alvaro Andres,1TIA2,M,1986-12-29,France,Montreuil,France,Belgique,7780,COMINES-WARNETON,COMINES,Ajournement,Refus,Refus,
+179,deleted,Benoît,2TIA1,M,1984-07-14,Belgique,Braine-l'Alleud,Belgique,Belgique,7090,BRAINE LE COMTE,BRAINE LE COMTE,Ajournement,Refus,Refus,
+180,deleted,Nicola,1TIA1,M,1986-06-26,France,Le Plessis Bouchard,Belgique,Belgique,4000,Liège,Liège,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+181,deleted,Grégory,1TIA2,M,1987-04-07,Belgique,Arlon,Belgique,Belgique,5537,ANHEE,ANHEE,Admission,,Admission,distinction
+182,deleted,Olivier,1TI,M,1986-03-20,Belgique,Charleroi,Belgique,Belgique,6800,Libramont-Chevigny,Libramont-Chevigny,,,,
+183,deleted,Kévin,1TIB1,M,1988-03-30,Belgique,Ath,Belgique,Belgique,5651,WALCOURT,TARCIENNE,Ajournement,Refus,Refus,
+184,deleted,Marine,3TIC1,F,1985-01-22,Belgique,Charleroi,Belgique,Belgique,5020,Namur,Suarlée,Admission,,Admission,satisfaction
+185,deleted,Frédéric,2TIB2,M,1985-07-04,Belgique,Namur,Belgique,Belgique,5590,CINEY,CINEY,Ajournement,Refus,Refus,
+186,deleted,Fahd,1TIE2,M,1985-06-30,Belgique,La Louvière,Belgique,Belgique,6120,HAM-SUR-HEURE/NALINNES,HAM-SUR-HEURE,Ajournement,Refus,Refus,
+187,deleted,Jean-François,1TIF1,M,1986-08-19,Belgique,Verviers,Belgique,Belgique,7100,La Louvière,Haine-Saint-Paul,Ajournement,Admission,Admission,satisfaction
+188,deleted,Gerome,2TIB1,M,1985-05-28,Belgique,Uccle,Belgique,Belgique,6740,VILLERS SUR SEMOIS,VILLERS SUR SEMOIS,Ajournement,Refus,Refus,
+189,deleted,Fabrice,3TIC2,M,1985-04-29,Belgique,Liège,Belgique,Belgique,1340,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES,Admission,,Admission,distinction
+190,deleted,Romain,1TID1,M,1986-10-09,France,Strasbourg,France,Belgique,4550,NANDRIN,NANDRIN,Ajournement,Refus,Refus,
+191,deleted,Hilâl,2TIB3,F,1986-07-29,Belgique,Braine-l'Alleud,Belgique,Belgique,1390,GREZ-DOICEAU,GREZ-DOICEAU,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+192,deleted,Laura,3TIB1,F,1984-07-19,Belgique,Dinant,Belgique,Belgique,1060,SAINT-GILLES,BRUXELLES,Admission,,Admission,distinction
+193,deleted,Laura,1TIE1,F,1985-11-02,France,Roubaix,France,Belgique,6700,ARLON,ARLON,Ajournement,Admission,Admission,distinction
+194,deleted,Pascal,1TIF2,M,1988-04-15,Belgique,Montigny-le-Tilleul,Belgique,Belgique,7830,SILLY,BASSILLY,Ajournement,Refus,Refus,
+195,deleted,Christophe,3TID1,M,1985-11-14,Belgique,Namur,Belgique,Belgique,4760,BÜLLINGEN,BÜLLINGEN,Admission,,Admission,grande distinction
+196,deleted,Valentin,1TIB1,M,1986-07-01,Belgique,CHARLEROI,Belgique,Belgique,4560,CLAVIER,LES AVINS,Ajournement,Refus,Refus,
+197,deleted,Dominique,1TIE2,M,1987-07-17,France,Beuvry,Belgique,Belgique,6181,COURCELLES,GOUY-LEZ-PIETON,Ajournement,Refus,Refus,
+198,deleted,Marie,1TIB2,F,1988-02-20,Belgique,Bruxelles,Belgique,Belgique,6990,BOURDON,BOURDON,Ajournement,Refus,Refus,
+199,deleted,Etienne,2TIC1,M,1986-12-29,Belgique,BASTOGNE,Belgique,Belgique,6900,MARCHE-EN-FAMENNE,MARCHE-EN-FAMENNE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+200,deleted,Loïc,1TID2,M,1988-07-18,Belgique,Charleroi,Belgique,Belgique,6720,HABAY,HACHY,Ajournement,Admission,Admission,satisfaction
+201,deleted,Lionel,1TIB1,M,1988-08-02,Belgique,Namur,Belgique,Belgique,5621,MORIALME,MORIALME,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+202,deleted,Timothy,3TIA1,M,1982-01-11,Belgique,MONTIGNY,Belgique,Belgique,5340,GESVES,FAULX-LES-TOMBES,Ajournement,Admission,Admission,distinction
+203,deleted,Guillaume,3TIC1,M,1980-12-15,Belgique,Uccle,Belgique,Belgique,1457,Walhain,Walhain,Admission,,Admission,satisfaction
+204,deleted,Nicolas,1TIA1,M,1984-12-08,Belgique,Montigny-le-Tilleul,Belgique,Belgique,1050,IXELLES,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+205,deleted,Simon,2TIA2,M,1983-09-30,Belgique,Charleroi,Belgique,Belgique,1320,Beauvechain,Beauvechain,Ajournement,Refus,Refus,
+206,deleted,Thomas,3TIB1,M,1986-06-29,Belgique,Huy,Belgique,Belgique,6880,Bertrix,Bertrix,Ajournement,Admission,Admission,satisfaction
+207,deleted,Grégory,3TIA2,M,1982-12-23,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,1080,Molenbeek-Saint-Jean,Bruxelles,Ajournement,Refus,Refus,
+208,deleted,Jonathan,2TIB2,M,1986-04-17,Belgique,Marche-en-Famenne,Belgique,Belgique,6230,PONT-A-CELLES,VIESVILLE,Ajournement,Refus,Refus,
+209,deleted,Laurie,1TID1,F,1988-05-01,Belgique,DINANT,Belgique,Belgique,1380,LASNE,LASNE,Ajournement,Refus,Refus,
+210,deleted,Marie,1TIA1,F,1988-10-03,Belgique,Charleroi,Belgique,Belgique,7100,La Louvière,La Louvière,Ajournement,Refus,Refus,
+211,deleted,Nathan,3TIC1,M,1984-10-19,Belgique,Etterbeek,Belgique,Belgique,7804,ATH,REBAIX,Admission,,Admission,satisfaction
+212,deleted,Lac,2TIA3,M,1986-08-24,Belgique,Messancy,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+213,deleted,Bia,2TID2,M,1985-07-01,Belgique,Charleroi,Belgique,Belgique,4040,HERSTAL,HERSTAL,Ajournement,Refus,Refus,
+214,deleted,Mike-Amir,1TIC2,M,1987-05-25,Belgique,Namur,Belgique,Belgique,1060,SAINT GILLES,SAINT GILLES,Admission,,Admission,satisfaction
+215,deleted,Johnny,3TIC2,M,1983-06-21,Belgique,Uccle,Belgique,Belgique,1480,TUBIZE,TUBIZE,Ajournement,Admission,Admission,satisfaction
+216,deleted,Etienne,1TID2,M,1985-10-06,Belgique,Arlon,Belgique,Belgique,5020,MALONNE,MALONNE,Ajournement,Refus,Refus,
+217,deleted,Cédric,1TIF1,M,1985-09-14,Belgique,Boussu,Belgique,Belgique,1367,Ramillies,Ramillies-Offus,Ajournement,Refus,Refus,
+218,deleted,Guillaume,1TIC1,M,1986-08-29,Belgique,Jette,Belgique,Belgique,6927,TELLIN,RESTEIGNE,Ajournement,Refus,Refus,
+219,deleted,Hakim,2TIA2,M,1985-05-16,Belgique,Namur,Belgique,Belgique,1040,ETTERBEEK,BRUXELLES,Ajournement,Refus,Refus,
+220,deleted,Bastien,1TIC1,M,1985-12-10,Belgique,Namur,Belgique,Belgique,5060,SAMBREVILLE,VELAINE-SUR-SAMBRE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+221,deleted,Egon,2TIB2,M,1983-03-15,Belgique,Liège,Belgique,Belgique,1470,GENAPPE,GENAPPE,Admission,,Admission,satisfaction
+222,deleted,Amaury,3TIB2,M,1984-01-22,Belgique,Anderlecht,Belgique,Belgique,1560,HOEILAART,HOEILAART,Ajournement,Refus,Refus,
+223,deleted,Pavel,1TIF2,M,1987-08-07,Belgique,Ottignies/Louvain-la-Neuve,Belgique,Belgique,5650,WALCOURT,YVES-GOMEZEE,Ajournement,Refus,Refus,
+224,deleted,Gilles,3TID1,M,1984-05-13,Belgique,Woluwé-Saint-Lambert,Belgique,Belgique,5001,NAMUR,NAMUR,Admission,,Admission,satisfaction
+225,deleted,Jérémy,3TID1,M,1985-06-20,Belgique,Charleroi,Belgique,Belgique,5002,NAMUR,NAMUR,Admission,,Admission,satisfaction
+226,deleted,Abdessamad,2TIA2,M,1983-04-07,Belgique,AUVELAIS,Belgique,Belgique,5540,HASTIERE,HASTIERE,Ajournement,Refus,Refus,
+227,deleted,Guillaume,2TIC1,M,1987-09-29,Belgique,Montigny-le-Tilleul,Belgique,Belgique,1300,Wavre,Wavre,Ajournement,Refus,Refus,
+228,deleted,Patrick,3TIC1,M,1984-09-07,Belgique,Montigny-le-Tilleul,Belgique,Belgique,6700,ARLON,ARLON,Admission,,Admission,satisfaction
+229,deleted,Caroline,2TIB1,F,1987-01-02,Belgique,Bruxelles,Belgique,Belgique,1370,JODOIGNE,JODOIGNE,Admission,,Admission,distinction
+230,deleted,Dylan,1TIE1,M,1984-08-29,Belgique,LA LOUVIERE,Belgique,Belgique,5190,Jemeppe-sur-Sambre,Mornimont,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+231,deleted,Emilie,1TIB1,F,1988-08-04,Belgique,LIEGE,Belgique,Belgique,7390,QUAREGNON,QUAREGNON,Ajournement,Refus,Refus,
+232,deleted,Guillaume,2TIA3,M,1986-02-21,Belgique,Sambreville,Belgique,Belgique,6762,VIRTON,SAINT-MARD,Ajournement,Refus,Refus,
+233,deleted,Gauthier,2TIA2,M,1987-02-23,France,Lille,France,Belgique,6840,NEUFCHATEAU,NEUFCHATEAU,Ajournement,Refus,Refus,
+234,deleted,Hugo,1TIE1,M,1984-09-04,Belgique,OTTIGNIES,Belgique,Belgique,1190,FOREST,BRUXELLES,Admission,,Admission,satisfaction
+235,deleted,Camille,1TID1,M,1988-06-05,Belgique,Charleroi,Belgique,Belgique,6030,Charleroi,Marchienne-au-Pont,Ajournement,Refus,Refus,
+236,deleted,Antoine,1TIF2,M,1986-02-19,Belgique,Namur,Belgique,Belgique,4130,ESNEUX,TILFF,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+237,deleted,Benjamin,2TIA2,M,1984-04-03,Belgique,Namur,Belgique,Belgique,7000,Mons,Mons,Ajournement,Refus,Refus,
+238,deleted,Sébastien,3TIC1,M,1986-05-25,Belgique,Uccle,Belgique,Belgique,5101,NAMUR,ERPENT,Ajournement,Admission,Admission,satisfaction
+239,deleted,Morgane,2TIB2,F,1987-04-29,Belgique,Rocourt,Belgique,Belgique,5020,NAMUR,MALONNE,Admission,,Admission,satisfaction
+240,deleted,Loïc,1TIE2,M,1985-10-15,Belgique,Kortrijk,Belgique,Belgique,5190,JEMEPPE-SUR-SAMBRE,JEMEPPE-SUR-SAMBRE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+241,deleted,Fabrizzio,1TIC2,M,1986-08-08,Belgique,Uccle,Belgique,Belgique,5640,Mettet,Mettet,Ajournement,Admission,Admission,satisfaction
+242,deleted,Arnaud,1TID1,M,1987-03-23,Belgique,La Louvière,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Refus,Refus,
+243,deleted,Aymeric,1TIE1,M,1987-05-19,Belgique,Libramont-Chevigny,Belgique,Belgique,5002,NAMUR,SAINT-SERVAIS,Ajournement,Admission,Admission,satisfaction
+244,deleted,Mathieu,2TIA2,M,1986-06-12,Belgique,La Louvière,Belgique,Belgique,6838,Bouillon,Corbion,Ajournement,Refus,Refus,
+245,deleted,Logan,2TIC1,M,1985-07-05,Belgique,Namur,Belgique,Belgique,1560,Hoeilaart,Hoeilaart,Ajournement,Admission,Admission,satisfaction
+246,deleted,Simon,3TIA2,M,1981-09-17,Belgique,SAMBREVILLE,Belgique,Belgique,5380,Fernelmont,Fernelmont,Ajournement,Refus,Refus,
+247,deleted,Alycia,1TID2,F,1986-08-12,France,Thionville,France,Belgique,1140,BRUXELLES,BRUXELLES,Admission,,Admission,distinction
+248,deleted,Dimitri,3TIA1,M,1982-02-23,Belgique,Uccle,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Admission,Admission,satisfaction
+249,deleted,Samuel,2TIC2,M,1984-10-25,Belgique,Etterbeek,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+250,deleted,Nicolas,1TIB1,M,1987-12-01,Belgique,Namur,Belgique,Belgique,5680,DOISCHE,DOISCHE,Ajournement,Refus,Refus,
+251,deleted,Bruno,1TIB1,M,1984-01-16,France,Le Plessis Bouchard,France,Belgique,4101,SERAING,JEMEPPE-SUR-MEUSE,Ajournement,Refus,Refus,
+252,deleted,Camille,1TIB1,F,1982-09-28,France,ARMENTIERES,Belgique,Belgique,6594,MOMIGNIES,BEAUWELZ,Ajournement,Refus,Refus,
+253,deleted,Adrian,3TIC2,M,1986-11-14,Belgique,Marche-en-Famenne,Belgique,Belgique,5032,Gembloux,Bossière,Admission,,Admission,distinction
+254,deleted,Muriel,1TID1,F,1988-12-25,France,Aubervilliers,France,Belgique,7330,SAINT-GHISLAIN,SAINT-GHISLAIN,Admission,,Admission,distinction
+255,deleted,Dorian,1TIB2,M,1986-09-27,Belgique,Uccle,Belgique,Belgique,9280,Lebbeke,Lebbeke,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+256,deleted,Mohamed,3TIA2,M,1985-12-26,Belgique,Liège,Belgique,Belgique,1330,RIXENSART,RIXENSART,Admission,,Admission,satisfaction
+257,deleted,Michaël,1TIE1,M,1988-11-06,Belgique,Charleroi,Belgique,Belgique,1428,Braine-l'Alleud,Lillois-Witterzée,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+258,deleted,Joachim,1TIC2,M,1987-07-13,Belgique,Soignies,Belgique,Belgique,6920,WELLIN,WELLIN,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+259,deleted,Annabelle,1TID1,F,1986-02-18,Autriche,COLOGNE,Belgique,Belgique,5100,NAMUR,WEPION,Ajournement,Refus,Refus,
+260,deleted,Ahmed,2TIA1,M,1986-03-28,Belgique,Namur,Belgique,Belgique,6953,NASSOGNE,NASSOGNE,Ajournement,Refus,Refus,
+261,deleted,Stanislaw,1TIA1,M,1987-03-25,Cuba,KINSHASA,Belgique,Belgique,5002,NAMUR,SAINT-SERVAIS,Ajournement,Refus,Refus,
+262,deleted,Marie,3TIA2,F,1985-09-23,Belgique,Bruxelles,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Refus,Refus,
+263,deleted,Sébastien,2TIC2,M,1986-03-28,Belgique,CHARLEROI,Belgique,Belgique,1030,BRUXELLES,BRUXELLES,Admission,,Admission,satisfaction
+264,deleted,Ben,1TIA1,M,1985-08-19,Belgique,Lobbes,Belgique,Belgique,4141,AYWAILLE,LOUVEIGNE,Ajournement,Refus,Refus,
+265,deleted,Sébastien,1TIC1,M,1988-03-16,Belgique,Charleroi,Belgique,Belgique,5000,Namur,Namur,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+266,deleted,Maxime,1TIB2,M,1987-08-25,Belgique,IXELLES,Belgique,Belgique,6030,GOUTROUX,GOUTROUX,Ajournement,Refus,Refus,
+267,deleted,Savannah,1TIB2,F,1988-05-30,Belgique,EUPEN,Belgique,Belgique,5300,ANDENNE,ANDENNE,Admission,,Admission,satisfaction
+268,deleted,Alex-Mehdi,1TIC2,M,1986-05-06,Belgique,Libramont-chevigny,Belgique,Belgique,1330,Rixensart,Rixensart,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+269,deleted,Alec,2TIC1,M,1983-11-30,Belgique,Arlon,Belgique,Belgique,5101,Namur,Loyers,Ajournement,Refus,Refus,
+270,deleted,Steven,2TIA2,M,1984-07-11,Belgique,UCCLE,Belgique,Belgique,7903,LEUZE-EN-HAINAUT,CHAPELLE-A-WATTINES,Ajournement,Admission,Admission,distinction
+271,deleted,Anne,2TIB2,F,1985-06-16,Belgique,Berchem-Sainte-Agathe,Belgique,Belgique,6830,BOUILLON,BOUILLON,Ajournement,Refus,Refus,
+272,deleted,Nathalie,2TIB3,F,1986-01-25,Belgique,LIEGE,Belgique,Belgique,5580,ROCHEFORT,LESSIVE,Ajournement,Admission,Admission,satisfaction
+273,deleted,Robin,2TID2,M,1985-08-22,Belgique,Liège,Belgique,Belgique,4460,Grâce-Hollogne,Grâce-Hollogne,Ajournement,Refus,Refus,
+274,deleted,Lionel,1TIE2,M,1986-01-13,Belgique,Uccle,Belgique,Belgique,4920,AYWAILLE,SOUGNE-REMOUCHAMPS,Ajournement,Refus,Refus,
+275,deleted,Chloé,2TIB2,F,1986-01-25,Belgique,Liège,Belgique,Belgique,7141,MORLANWELZ,MORLANWELZ,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+276,deleted,Sébastien,3TIB1,M,1985-05-23,Belgique,Charleroi,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Refus,Refus,
+277,deleted,Nicolas,2TID2,M,1983-11-12,Belgique,Namur,Belgique,Belgique,1367,RAMILLIES,GEROMPONT,Ajournement,Refus,Refus,
+278,deleted,Quentin,2TID1,M,1981-02-13,Belgique,Charleroi,Belgique,Belgique,5020,Namur,Vedrin,Ajournement,Refus,Refus,
+279,deleted,Luis,3TIB1,M,1986-07-16,Belgique,Uccle,Belgique,Belgique,4500,HUY,HUY,Admission,,Admission,satisfaction
+280,deleted,Hugues,3TIB1,M,1982-03-03,Belgique,Namur,Belgique,Belgique,1050,IXELLES,BRUXELLES,Ajournement,Refus,Refus,
+281,deleted,Lionel,2TIA3,M,1986-08-03,Belgique,Marche-en-Famenne,Belgique,Belgique,4051,CHAUDFONTAINE,VAUX-SOUS-CHEVREMONT,Ajournement,Admission,Admission,satisfaction
+282,deleted,Thomas,3TIA1,M,1984-09-27,Belgique,NAMUR,Belgique,Belgique,5190,JEMEPPE-SUR-SAMBRE,SPY,Admission,,Admission,distinction
+283,deleted,Guillaume,2TID2,M,1985-02-08,Belgique,Verviers,Belgique,Belgique,4000,LIEGE,LIEGE,Ajournement,Admission,Admission,satisfaction
+284,deleted,Bastien,1TID1,M,1987-02-18,Belgique,Namur,Belgique,Belgique,1360,PERWEZ,PERWEZ,Ajournement,Refus,Refus,
+285,deleted,Alexandre,2TIA2,M,1988-01-08,France,Fourmies,France,France,59122,HONDSCHOOTE,HONDSCHOOTE,Admission,,Admission,distinction
+286,deleted,Pierre,2TIB2,M,1986-02-14,Belgique,Oupeye,Belgique,Belgique,6000,CHARLEROI,CHARLEROI,Admission,,Admission,satisfaction
+287,deleted,Axel,2TIB2,M,1986-08-07,Inde,NARAVI,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+288,deleted,Marie,1TID2,F,1983-10-24,France,Roncq,France,Belgique,6043,CHARLEROI,RANSART,Ajournement,Admission,Admission,satisfaction
+289,deleted,Romain,1TIB2,M,1987-04-23,Roumanie,Botosani,Belgique,Belgique,5537,ANHEE,ANHEE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+290,deleted,Olivier,3TID1,M,1985-02-10,Belgique,Dinant,Belgique,Belgique,1350,Orp-Jauche,Orp-Jauche,Admission,,Admission,grande distinction
+291,deleted,Valéry,3TIA2,M,1984-05-10,Belgique,Montigny-le-Tilleul,Belgique,Belgique,4500,HUY,HUY,Ajournement,Refus,Refus,
+292,deleted,Kevin,1TIA2,M,1987-09-29,Belgique,LIEGE,Belgique,Belgique,5060,SAMBREVILLE,VELAINE-SUR-SAMBRE,Ajournement,Refus,Refus,
+293,deleted,Laurent,2TIA3,M,1984-11-23,Belgique,Namur,Belgique,Belgique,5537,MALONNE,MALONNE,Ajournement,Refus,Refus,
+294,deleted,Julian,2TID1,M,1985-09-10,Belgique,Uccle,Belgique,Belgique,6720,HABAY,HABAY-LA-NEUVE,Ajournement,Refus,Refus,
+295,deleted,Laurent,3TIB2,M,1978-06-03,Belgique,UCCLE,Belgique,Belgique,5020,NAMUR,NAMUR,Admission,,Admission,satisfaction
+296,deleted,Jorge,2TID2,M,1987-12-26,Belgique,Namur,Belgique,Belgique,5100,JAMBES,JAMBES,Ajournement,Refus,Refus,
+297,deleted,Simon,3TIB2,M,1982-11-03,Belgique,Liège,Belgique,Belgique,7300,BOUSSU,BOUSSU,Ajournement,Admission,Admission,satisfaction
+298,deleted,Sylvie,1TIE2,F,1986-10-03,Belgique,La Louvière,Belgique,Belgique,5002,NAMUR,NAMUR,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+299,deleted,Eric,1TID2,M,1988-04-25,Belgique,Bruxelles,Belgique,Belgique,4970,STAVELOT,STAVELOT,Ajournement,Refus,Refus,
+300,deleted,Valentin,2TIA1,M,1987-04-24,Belgique,Bruxelles,Belgique,Belgique,1030,BRUXELLES,BRUXELLES,Ajournement,Refus,Refus,
+301,deleted,Melody,2TIB2,F,1983-09-01,Belgique,NIVELLES,Belgique,Belgique,67380,LINGOLSHEIN,LINGOLSHEIN,Ajournement,Admission,Admission,satisfaction
+302,deleted,Romain,1TIB1,M,1988-11-23,Belgique,DINANT,Belgique,Belgique,1460,ITTRE,ITTRE,Ajournement,Refus,Refus,
+303,deleted,Laetitia,2TIA2,F,1985-01-07,Belgique,Charleroi,Belgique,Belgique,6600,BASTOGNE,BASTOGNE,Ajournement,Refus,Refus,
+304,deleted,Raphaël,2TID1,M,1984-04-22,Belgique,Marche-en-Famenne,Belgique,Belgique,7950,Chièvres,Chièvres,Ajournement,Refus,Refus,
+305,deleted,Elody,1TIF1,F,1988-05-10,Belgique,Liège,Belgique,Belgique,1180,BRUXELLES,BRUXELLES,Ajournement,Refus,Refus,
+306,deleted,Audrey,2TIC1,F,1986-12-19,France,Chartres,France,Belgique,1380,Lasne,Lasne,Admission,,Admission,satisfaction
+307,deleted,Gaëlle,1TIE1,F,1982-12-10,Belgique,CHARLEROI,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Admission,Admission,satisfaction
+308,deleted,Jérôme,1TIC2,M,1986-12-09,Belgique,Namur,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+309,deleted,Rémy,1TIF1,M,1985-09-30,Belgique,Charleroi,Belgique,Belgique,5650,WALCOURT,YVES-GOMEZEE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+310,deleted,Marie,2TIB1,F,1986-01-16,Belgique,LIEGE,Belgique,Belgique,5300,ANDENNE,ANDENNE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+311,deleted,Jessica,1TIF2,F,1983-04-26,Belgique,Namur,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Refus,Refus,
+312,deleted,Rémi,3TIC2,M,1984-05-28,Belgique,Ixelles,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Admission,Admission,satisfaction
+313,deleted,Mounir,2TIC1,M,1984-10-21,France,NOGENT S/MARNE,France,Belgique,5310,EGHEZEE,SAINT-GERMAIN,Ajournement,Refus,Refus,
+314,deleted,Thomas,3TIA2,M,1981-07-18,Belgique,Namur,Belgique,Belgique,6920,Wellin,Wellin,Ajournement,Admission,Admission,satisfaction
+315,deleted,Damien,2TIB1,M,1984-04-10,France,Saint-Omer,France,Belgique,4100,SERAING,SERAING,Ajournement,Refus,Refus,
+316,deleted,Rudolphe,2TIA1,M,1983-06-29,Belgique,Jette,Belgique,Belgique,6200,CHATELET,CHATELET,Ajournement,Admission,Admission,satisfaction
+317,deleted,Jana,2TIB1,F,1985-06-21,Belgique,Arlon,Belgique,Belgique,1490,Court-Saint-Etienne,Court-Saint-Etienne,Ajournement,Refus,Refus,
+318,deleted,Sébastien,2TIA2,M,1984-01-24,Belgique,Braine-l'Alleud,Belgique,Belgique,4217,Héron,Waret-l'Evêque,Ajournement,Refus,Refus,
+319,deleted,Océane,1TIE1,F,1986-08-17,Belgique,Bruxelles,Belgique,Belgique,6032,CHARLEROI,MONT-SUR-MARCHIENNE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+320,deleted,Jérôme,2TIA3,M,1985-12-05,Belgique,Namur,Belgique,Belgique,7000,MONS,MONS,Ajournement,Refus,Refus,
+321,deleted,Miles,2TIC1,M,1986-06-30,Luxembourg,Luxembourg,Belgique,Belgique,8670,Koksijde,Koksijde,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+322,deleted,Nicola,1TIC1,M,1984-05-17,Belgique,Aye,Belgique,Belgique,5537,ANHEE,ANHEE,Ajournement,Refus,Refus,
+323,deleted,Julie,3TID1,F,1985-05-29,Belgique,Saint-Ghislain,Belgique,Belgique,5370,Havelange,Havelange,Admission,,Admission,distinction
+324,deleted,Olivier,2TIB3,M,1987-06-01,France,Dijon,Belgique,Belgique,1410,Waterloo,Waterloo,Ajournement,Refus,Refus,
+325,deleted,Dimitri,1TIC2,M,1987-08-30,Belgique,Uccle,Belgique,Belgique,5080,LA BRUYERE,RHISNES,Ajournement,Refus,Refus,
+326,deleted,Julien,1TIF2,M,1988-02-08,Belgique,NAMUR,Belgique,Belgique,1080,BRUXELLES,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+327,deleted,David,2TID1,M,1985-06-09,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,1348,Ottignies-Louvain-la-Neuve,Louvain-la-Neuve,Admission,,Admission,satisfaction
+328,deleted,Sophie,1TID2,F,1988-04-11,Belgique,Namur,Belgique,Belgique,1300,Ottignies-Louvain-la-Neuve,Wavre,Ajournement,Refus,Refus,
+329,deleted,Joffrey,2TIC1,M,1984-08-16,France,Pabu,France,Belgique,4130,TILFF,TILFF,Ajournement,Admission,Admission,satisfaction
+330,deleted,Arnaud,3TIC1,M,1985-09-15,Belgique,LIEGE,Belgique,Belgique,7712,MOUSCRON,HERSEAUX,Admission,,Admission,distinction
+331,deleted,Emine,2TIB1,F,1986-03-06,Belgique,Bruxelles,Belgique,Belgique,6120,Ham-sur-Heure-Nalinnes,Ham-sur-Heure-Nalinnes,Ajournement,Refus,Refus,
+332,deleted,Jessica,2TIB1,F,1985-09-13,Belgique,Uccle,Belgique,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+333,deleted,Justine,1TIC1,F,1989-01-02,Belgique,WOLUWE-SAINT-LAMBERT,Belgique,Belgique,6464,CHIMAY,L'ESCAILLERE,Ajournement,Refus,Refus,
+334,deleted,Cédric,1TIB1,M,1988-07-22,Belgique,Charleroi,Belgique,Belgique,1457,Walhain,Nil-st-Vincent-st-Martin,Ajournement,Refus,Refus,
+335,deleted,Thomas,3TID1,M,1982-12-02,Belgique,Uccle,Belgique,Belgique,1170,WATERMAEL-BOITSFORT,BRUXELLES,Admission,,Admission,satisfaction
+336,deleted,Robin,1TIE1,M,1987-05-27,Belgique,Huy,Belgique,Belgique,6250,AISEAU-PRESLES,AISEAU,Ajournement,Refus,Refus,
+337,deleted,Corentin,2TIC1,M,1986-09-18,Belgique,Etterbeek,Belgique,Belgique,4577,MODAVE,VIERSET-BARSE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+338,deleted,Jérôme,1TIC2,M,1988-03-14,Belgique,UCCLE,Belgique,Belgique,1340,Ottignies-Louvain-la-Neuve,Ottignies,Ajournement,Admission,Admission,distinction
+339,deleted,Nicolas,2TIA1,M,1984-07-13,Belgique,Charleroi,Belgique,Belgique,1474,Genappe,Ways,Ajournement,Admission,Admission,satisfaction
+340,deleted,Anne-Laure,1TID1,F,1986-09-02,Belgique,Bruxelles,Belgique,Belgique,7500,TOURNAI,TOURNAI,Ajournement,Refus,Refus,
+341,deleted,Aurélien,1TIA2,M,1988-02-25,Belgique,Berchem,Belgique,Belgique,5100,NAMUR,NAMUR,Admission,,Admission,satisfaction
+342,deleted,Romain,1TIB2,M,1987-02-03,Belgique,MENEN,Belgique,Belgique,1457,Walhain,Nil-st-Vincent-st-Martin,Ajournement,Admission,Admission,distinction
+343,deleted,Hadrien,2TIB1,M,1986-02-26,Belgique,Anderlecht,Belgique,Belgique,5170,PROFONDEVILLE,LUSTIN,Ajournement,Refus,Refus,
+344,deleted,Anne-Sophie,2TIB3,F,1986-10-20,Belgique,Bruxelles,Belgique,Belgique,4610,BEYNE-HEUSAY,BELLAIRE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+345,deleted,Quentin,1TIC2,M,1987-11-03,France,Saint-Lô,France,Belgique,6780,MESSANCY,MESSANCY,Ajournement,Refus,Refus,
+346,deleted,Yvon,1TIC1,M,1988-10-01,Belgique,NAMUR,Belgique,Belgique,5001,NAMUR,BELGRADE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+347,deleted,Xavier,2TIB1,M,1985-02-12,Belgique,La Louvière,Belgique,Belgique,5020,NAMUR,VEDRIN,Ajournement,Admission,Admission,satisfaction
+348,deleted,Gauthier,2TIA2,M,1984-12-28,Belgique,Berchem-Sainte-Agathe,Belgique,Belgique,5170,PROFONDEVILLE,PROFONDEVILLE,Ajournement,Refus,Refus,
+349,deleted,Julie,1TIB2,F,1985-05-04,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,5024,NAMUR,NAMUR,Ajournement,Refus,Refus,
+350,deleted,Daniel,1TID1,M,1986-01-03,France,ELERNAY,France,Belgique,1325,CHAUMONT-GISTOUX,CHAUMONT-GISTOUX,Admission,,Admission,satisfaction
+351,deleted,Ahmet,1TIE2,M,1986-05-26,France,Lille,Belgique,Belgique,7080,FRAMERIES,FRAMERIES,Ajournement,Refus,Refus,
+352,deleted,Jules,1TIE2,M,1987-11-01,Belgique,SAINT-GHISLAIN,Belgique,Belgique,5500,DINANT,DINANT,Ajournement,Refus,Refus,
+353,deleted,Naomi,2TIB2,F,1985-05-25,Belgique,Arlon,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+354,deleted,Kevin,1TIE2,M,1983-08-12,Belgique,Liège,Belgique,Belgique,1650,BEERSEL,BEERSEL,Ajournement,Refus,Refus,
+355,deleted,Phongsak,2TID2,M,1983-06-01,Belgique,Dinant,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Refus,Refus,
+356,deleted,Rémy,1TIB1,M,1986-11-02,Belgique,Braine-l'Alleud,Belgique,Belgique,1410,WATERLOO,WATERLOO,Ajournement,Admission,Admission,satisfaction
+357,deleted,Serban,3TIB2,M,1985-11-13,Belgique,Charleroi,Belgique,Belgique,4400,FLEMALLE,FLEMALLE,Ajournement,Admission,Admission,satisfaction
+358,deleted,Gauthier,2TIB3,M,1983-12-24,Belgique,MONTIGNY-LE-TILLEUL,Belgique,Belgique,1348,Ottignies-Louvain-la-Neuve,Ottignies-Louvain-la-Neuve,Ajournement,Refus,Refus,
+359,deleted,Juan,2TIB2,M,1985-05-17,Belgique,Namur,Belgique,Belgique,7062,SOIGNIES,NAAST,Ajournement,Refus,Refus,
+360,deleted,Sevan,2TIB2,M,1983-10-17,Belgique,Binche,Belgique,Belgique,6040,CHARLEROI,JUMET,Ajournement,Admission,Admission,satisfaction
+361,deleted,Charly,2TIA3,M,1987-01-24,Belgique,Huy,Belgique,Belgique,1190,FOREST,FOREST,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+362,deleted,Georges,2TIA1,M,1984-03-26,Belgique,Etterbeek,Belgique,Belgique,6211,LES BONS VILLERS,LES BONS VILLERS,Ajournement,Refus,Refus,
+363,deleted,Adrien,2TIA2,M,1985-04-01,Belgique,Bruxelles,Belgique,Belgique,5300,ANDENNE,COUTISSE,Admission,,Admission,satisfaction
+364,deleted,Jeremy,1TID2,M,1987-09-12,Belgique,Liège,Belgique,Belgique,1190,Forest,Bruxelles,Ajournement,Refus,Refus,
+365,deleted,Gaël,2TIA3,M,1986-06-04,Belgique,Libramont-Chevigny,Belgique,Belgique,7034,MONS,OBOURG,Ajournement,Refus,Refus,
+366,deleted,Arnaud,2TIB1,M,1987-12-19,Belgique,Charleroi,Belgique,Belgique,6230,PONT-A-CELLES,VIESVILLE,Ajournement,Refus,Refus,
+367,deleted,Sébastien,1TIE1,M,1987-10-26,Belgique,Rocourt,Belgique,Belgique,1476,GENAPPE,HOUTAIN-LE-VAL,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+368,deleted,Romain,1TIA1,M,1985-01-15,Belgique,Ottignies-Louvain-la-Neuve,Belgique,Belgique,6280,GERPINNES,GERPINNES,Ajournement,Admission,Admission,satisfaction
+369,deleted,Sarah,1TID1,F,1983-07-08,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,1348,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES-LOUVAIN-LA-NEUVE,Ajournement,Refus,Refus,
+370,deleted,Xavier,1TIA2,M,1987-09-07,Belgique,Liège,Belgique,Belgique,5560,Houyet,Finnevaux,Ajournement,Refus,Refus,
+371,deleted,Antoine,1TIB2,M,1983-04-14,France,La Roche sur Yon,France,Belgique,4537,Verlaine,Bodegnée,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+372,deleted,Giancarlo,1TID2,M,1987-11-12,Belgique,Charleroi,Belgique,Belgique,1421,Braine-l'Alleud,Ophain-Bois-Seigneur-Isaac,Ajournement,Refus,Refus,
+373,deleted,Alexis,3TIC1,M,1983-02-22,Belgique,Auvelais,Belgique,Belgique,5081,LA BRUYERE,SAINT-DENIS-BOVESSE,Admission,,Admission,satisfaction
+374,deleted,Ronan,2TID2,M,1985-12-13,Belgique,La Louvière,Belgique,Belgique,5370,Havelange,Havelange,Ajournement,Refus,Refus,
+375,deleted,Julien,2TID2,M,1984-01-05,Belgique,Verviers,Belgique,Belgique,1470,GENAPPE,GENAPPE,Ajournement,Admission,Admission,satisfaction
+376,deleted,Colin,3TIC2,M,1984-11-27,Belgique,Ottignies,Belgique,Belgique,6110,Montigny-le-Tilleul,Montigny-le-Tilleul,Admission,,Admission,distinction
+377,deleted,Romain,1TIB1,M,1988-08-13,Belgique,Baudour,Belgique,Belgique,1348,OTTIGNIES-LOUVAIN-LA-NEUVE,LOUVAIN-LA-NEUVE,Ajournement,Admission,Admission,satisfaction
+378,deleted,Jonathan,1TIC1,M,1986-11-15,Belgique,Alost,Belgique,Belgique,6110,MONTIGNY-LE-TILLEUL,MONTIGNY-LE-TILLEUL,Ajournement,Refus,Refus,
+379,deleted,Laurent,2TIA1,M,1984-09-19,Belgique,Braine-l'Alleud,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Refus,Refus,
+380,deleted,Victor,3TID1,M,1984-06-22,Belgique,Charleroi,Belgique,Belgique,1348,OTTIGNIES-LOUVAIN-LA-NEUVE,LOUVAIN-LA-NEUVE,Admission,,Admission,distinction
+381,deleted,Leo,1TIC2,M,1986-12-23,Belgique,Uccle,Belgique,Belgique,7850,ENGHIEN,ENGHIEN,Ajournement,Refus,Refus,
+382,deleted,Aline,1TIA1,F,1985-06-26,Belgique,Aye,Belgique,Belgique,1780,WEMMEL,WEMMEL,Ajournement,Refus,Refus,
+383,deleted,Vladimir,1TIF1,M,1987-11-27,Belgique,Braine-l'Alleud,Belgique,Belgique,5020,NAMUR,NAMUR,Ajournement,Refus,Refus,
+384,deleted,Mateusz,1TIE1,M,1988-04-21,Belgique,UCCLE,Belgique,Belgique,4500,HUY,HUY,Admission,,Admission,satisfaction
+385,deleted,Florian,2TID1,M,1983-06-21,Belgique,Ottignies,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Ajournement,Refus,Refus,
+386,deleted,Jonathan,1TIA2,M,1985-08-08,Belgique,Braine-l'Alleud,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Admission,Admission,distinction
+387,deleted,Mathieu,1TIE2,M,1987-06-11,Belgique,Uccle,Belgique,Belgique,5370,HAVELANGE,HAVELANGE,Admission,,Admission,satisfaction
+388,deleted,Axel,2TIA2,M,1979-10-01,Allemagne,Cologne,Belgique,Belgique,1410,WATERLOO,WATERLOO,Ajournement,Refus,Refus,
+389,deleted,François,1TIC1,M,1986-04-25,Belgique,Charleroi,Belgique,Belgique,5555,BIEVRE,BIEVRE,Ajournement,Refus,Refus,
+390,deleted,Fabrice,2TID2,M,1986-03-05,Belgique,NAMUR,Belgique,Belgique,6210,LES-BONS-VILLERS,WAYAUX,Admission,,Admission,distinction
+391,deleted,Héloïse,1TIF1,F,1987-02-28,Belgique,Namur,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Refus,Refus,
+392,deleted,Thibaut,1TIB1,M,1987-06-26,Belgique,Gent,Belgique,Belgique,5620,Florennes,Florennes,Ajournement,Refus,Refus,
+393,deleted,Arnaud,1TIC2,M,1986-12-13,Belgique,LIEGE,Belgique,Belgique,7600,Péruwelz,Péruwelz,Ajournement,Refus,Refus,
+394,deleted,Sébastien,1TID1,M,1988-01-05,Belgique,NAMUR,Belgique,Belgique,1170,WATERMAEL-BOITSFORT,BRUXELLES,Admission,,Admission,distinction
+395,deleted,Vinciane,2TIB3,F,1987-10-09,Belgique,OTTIGNIES,Belgique,Belgique,4557,TINLOT,TINLOT,Ajournement,Refus,Refus,
+396,deleted,Andy,2TIB1,M,1984-05-01,Belgique,Marche-en-Famenne,Belgique,Belgique,7041,QUEVY,HAVAY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+397,deleted,Li,2TIC1,M,1984-10-04,Belgique,Charleroi,Belgique,Belgique,5300,ANDENNE,ANDENNE,Admission,,Admission,satisfaction
+398,deleted,Damien,1TIE1,M,1986-11-20,Belgique,Soest,Belgique,Belgique,4500,HUY,HUY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+399,deleted,Nicolas,1TIF1,M,1987-02-15,Belgique,Virton,Belgique,Belgique,7504,Tournai,Froidmont,Ajournement,Refus,Refus,
+400,deleted,Arnaud,1TIC1,M,1986-07-21,Belgique,Uccle,Belgique,Belgique,6041,CHARLEROI,GOSSELIES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+401,deleted,Cédric,2TIA3,M,1987-05-15,Belgique,Malmédy,Belgique,Belgique,1081,KOEKELBERG,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+402,deleted,Philippine,1TIE2,F,1987-09-18,Belgique,Oupeye,Belgique,Belgique,5080,LA BRUYERE,RHISNES,Admission,,Admission,satisfaction
+403,deleted,Olivier,2TIC1,M,1982-07-23,Belgique,Uccle,Belgique,Belgique,5377,Somme-Leuze,Somme-Leuze,Ajournement,Refus,Refus,
+404,deleted,Yannick,2TIB1,M,1984-04-21,Belgique,Uccle,Belgique,Belgique,4923,MONTIGNY-LE-TILLEUL,MONTIGNY-LE-TILLEUL,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+405,deleted,Gilles,3TIA1,M,1985-10-02,Belgique,Uccle,Belgique,Belgique,7522,Tournai,Blandain,Ajournement,Refus,Refus,
+406,deleted,Maxime,2TIB3,M,1984-04-23,Mexique,Veracruz,Mexique,Belgique,7540,TOURNAI,TOURNAI,Ajournement,Refus,Refus,
+407,deleted,Earl,2TIB2,M,1986-12-09,Belgique,Uccle,Belgique,Belgique,6042,CHARLEROI,LODELINSART,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+408,deleted,Julien,1TID2,M,1980-02-18,France,Metz,France,Belgique,6180,COURCELLES,COURCELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+409,deleted,Youssef,2TIC1,M,1985-04-10,Belgique,Liège,Belgique,Belgique,5621,MORIALME,MORIALME,Ajournement,Refus,Refus,
+410,deleted,Axel,2TIB1,M,1984-09-28,Belgique,La Louvière,Belgique,Belgique,62000,ARRAS,ARRAS,Ajournement,Admission,Admission,satisfaction
+411,deleted,Simon,2TIC2,M,1984-12-20,Belgique,Uccle,Belgique,Belgique,1081,KOEKELBERG,BRUXELLES,Ajournement,Admission,Admission,grande distinction
+412,deleted,Alexei,3TID1,M,1983-06-14,Belgique,Libramont-Chevigny,Belgique,Belgique,5500,Dinant,Dinant,Admission,,Admission,grande distinction
+413,deleted,Benjamin,2TIA2,M,1987-02-12,Belgique,CHARLEROI,Belgique,Belgique,5640,METTET,METTET,Ajournement,Refus,Refus,
+414,deleted,Bastien,3TIA2,M,1984-05-09,Belgique,Etterbeek,Belgique,Belgique,6120,HAM-SUR-HEURE,HAM-SUR-HEURE,Admission,,Admission,satisfaction
+415,deleted,Christopher,2TIB3,M,1985-12-15,Belgique,Sambreville,Belgique,Belgique,1367,RAMILLIES,GEROMPONT,Ajournement,Refus,Refus,
+416,deleted,Alexandre,3TIB2,M,1982-12-17,Belgique,Namur,Belgique,Belgique,5060,Sambreville,Velaine-sur-Sambre,Ajournement,Ajournement,Admission,satisfaction
+417,deleted,Jean-Philippe,3TIC1,M,1984-09-13,Belgique,IXELLES,Belgique,Belgique,7140,MORLANWEZ,MORLANWEZ,Admission,,Admission,distinction
+418,deleted,Caroline,3TIA1,F,1985-01-12,Belgique,Nivelles,Belgique,Belgique,6630,Martelange,Martelange,Admission,,Admission,distinction
+419,deleted,Jonathan,1TID1,M,1986-05-27,Belgique,Malmédy,Belgique,Belgique,5670,DOURBES,DOURBES,Ajournement,Admission,Admission,satisfaction
+420,deleted,Marie,1TIF2,F,1985-09-07,Belgique,Nivelles,Belgique,Belgique,6043,CHARLEROI,RANSART,Admission,,Admission,distinction
+421,deleted,Lou,1TID2,M,1981-03-27,Belgique,Charleroi,Belgique,Belgique,1420,BRAINE L'ALLEUD,BRAINE L'ALLEUD,Ajournement,Admission,Admission,satisfaction
+422,deleted,Emilien,2TIA3,M,1984-09-27,Belgique,Virton,Belgique,Belgique,6001,CHARLEROI,MARCINELLE,Ajournement,Refus,Refus,
+423,deleted,Simon,3TIC2,M,1986-10-20,Belgique,Arlon,Belgique,Belgique,1000,Bruxelles,Bruxelles,Admission,,Admission,satisfaction
+424,deleted,Thomas,1TIE2,M,1986-07-01,Belgique,Tournai,Belgique,Belgique,1030,SCHAERBEEK,SCHAERBEEK,Ajournement,Refus,Refus,
+425,deleted,Clara,2TIC2,F,1987-05-17,Belgique,Liège,Belgique,Belgique,5000,NAMUR,NAMUR,Admission,,Admission,distinction
+426,deleted,Xavier,2TIB1,M,1987-05-25,Belgique,Seraing,Belgique,Belgique,1421,Braine-l'Alleud,Ophain-Bois-Seigneur-Isaac,Ajournement,Refus,Refus,
+427,deleted,Guillaume,1TIB1,M,1986-08-13,Belgique,Uccle,Belgique,Belgique,6211,LES-BONS-VILLERS,MELLET,Ajournement,Refus,Refus,
+428,deleted,Loïc,1TIF2,M,1986-07-02,Belgique,Uccle,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Refus,Refus,
+429,deleted,Jonathan,2TID1,M,1987-01-24,Belgique,Bruxelles,Belgique,Belgique,5334,Assesse,Florée,Ajournement,Refus,Refus,
+430,deleted,Sébastien,2TID1,M,1982-12-31,Belgique,Bruxelles,Belgique,Belgique,5060,Sambreville,Auvelais,Ajournement,Refus,Refus,
+431,deleted,Wivine,3TIB1,F,1985-05-11,Belgique,Bruxelles,Belgique,Belgique,1640,RHODE-SAINT-GENESE,RHODE-SAINT-GENESE,Admission,,Admission,satisfaction
+432,deleted,Corentin,1TIF2,M,1988-01-04,Belgique,Ottignies-Louvain-la-Neuve,Belgique,Belgique,1340,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES,Ajournement,Refus,Refus,
+433,deleted,Singhor,1TID1,M,1988-01-28,Belgique,Arlon,Belgique,Belgique,5021,Namur,Boninne,Ajournement,Refus,Refus,
+434,deleted,Grégory,2TIA3,M,1985-01-16,Belgique,Liège,Belgique,Belgique,1702,Dilbeek,Groot-Bijgaarden,Ajournement,Refus,Refus,
+435,deleted,Yann,3TIB1,M,1982-12-22,Belgique,Liège,Belgique,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+436,deleted,Olivier,1TIA1,M,1987-01-09,Belgique,Liège,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+437,deleted,Axelle,1TIF1,F,1985-06-29,Belgique,Braine-l'Alleud,Belgique,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+438,deleted,Sarah,1TIF1,F,1986-10-30,France,Saint-Brieuc,France,Belgique,5060,SAMBREVILLE,ARSIMONT,Ajournement,Refus,Refus,
+439,deleted,Didier,1TIB2,M,1986-05-07,Belgique,Ixelles,Belgique,Belgique,1050,Ixelles,Bruxelles,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+440,deleted,Corentin,2TIA1,M,1986-01-11,France,Clamart,France,Belgique,4800,VERVIERS,VERVIERS,Ajournement,Admission,Admission,distinction
+441,deleted,Philippe,3TIC2,M,1984-01-24,Belgique,Uccle,Belgique,Belgique,1320,BEAUVECHAIN,BEAUVECHAIN,Admission,,Admission,satisfaction
+442,deleted,Ralf,3TID1,M,1984-06-25,Belgique,UCCLE,Belgique,Belgique,7850,ENGHIEN,ENGHIEN,Admission,,Admission,distinction
+443,deleted,Christian,1TIE1,M,1984-12-04,Belgique,Virton,Belgique,Belgique,1390,Grez-Doiceau,Biez,Ajournement,Admission,Admission,satisfaction
+444,deleted,Quentin,3TIC2,M,1984-07-26,Belgique,Namur,Belgique,Belgique,5060,SAMBREVILLE,TAMINES,Ajournement,Admission,Admission,satisfaction
+445,deleted,Virginie,1TIC1,F,1988-06-14,Belgique,Namur,Belgique,Belgique,5004,NAMUR,BOUGE,Ajournement,Admission,Admission,satisfaction
+446,deleted,Maxime,2TIB3,M,1986-11-12,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,1330,Rixensart,Rixensart,Ajournement,Refus,Refus,
+447,deleted,Lionel,2TIA2,M,1982-04-29,Congo République Démocratique,Kinshasa,Belgique,Belgique,6567,LA BUISSIERE,LA BUISSIERE,Ajournement,Refus,Refus,
+448,deleted,Kévin,2TIB3,M,1985-08-27,Belgique,Uccle,Belgique,Belgique,7340,Colfontaine,Colfontaine,Ajournement,Refus,Refus,
+449,deleted,Baptiste,2TIA3,M,1985-08-02,Belgique,Charleroi,Belgique,Belgique,5600,PHILIPPEVILLE,PHILIPPEVILLE,Ajournement,Refus,Refus,
+450,deleted,Axel,2TIA3,M,1986-06-01,Belgique,Namur,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+451,deleted,Mathieu,2TIB3,M,1985-07-16,Belgique,Charleroi,Belgique,Belgique,6591,MOMIGNIES,MACON,Admission,,Admission,satisfaction
+452,deleted,Laurent,2TIA2,M,1984-08-15,France,Amiens,France,Belgique,57070,METZ,METZ,Ajournement,Admission,Admission,satisfaction
+453,deleted,Tom,2TIB2,M,1985-12-04,Belgique,Etterbeek,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Admission,,Admission,satisfaction
+454,deleted,Olivia,3TID1,F,1984-10-22,France,Lille,France,Belgique,5100,Namur,Jambes,Admission,,Admission,satisfaction
+455,deleted,Catherine,1TIA1,F,1986-10-29,Belgique,LIEGE,Belgique,Belgique,5600,PHILIPPEVILLE,PHILIPPEVILLE,Ajournement,Admission,Admission,satisfaction
+456,deleted,Jean-Yves,1TIA2,M,1974-06-03,Maroc,Béni Oulichek,Maroc,Belgique,1651,BEERSEL,LOT,Ajournement,Refus,Refus,
+457,deleted,Valérie,1TIE2,F,1986-09-18,Belgique,Etterbeek,Belgique,Belgique,6800,LIBRAMONT-CHEVIGNY,LIBRAMONT-CHEVIGNY,Ajournement,Admission,Admission,satisfaction
+458,deleted,Maxence,1TIB2,M,1986-10-29,France,METZ,France,Belgique,5021,NAMUR,BONINNE,Admission,,Admission,satisfaction
+459,deleted,Christophe,2TIC1,M,1983-04-17,Belgique,Rocourt,Belgique,Belgique,6600,Bastogne,Bastogne,Ajournement,Admission,Admission,satisfaction
+460,deleted,Yohan,3TIB1,M,1985-06-26,Belgique,Liège,Belgique,Belgique,6920,Wellin,Wellin,Admission,,Admission,satisfaction
+461,deleted,Benjamin,1TID1,M,1987-11-28,Belgique,Charleroi,Belgique,Belgique,4347,FEXHE-LE-HAUT-CLOCHER,FEXHE-LE-HAUT-CLOCHER,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+462,deleted,Adriano,2TIB2,M,1982-09-21,Belgique,Etterbeek,Belgique,Belgique,1040,ETTERBEEK,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+463,deleted,Sophie,2TIA3,F,1984-06-29,France,DIJON,France,Belgique,5660,COUVIN,COUVIN,Ajournement,Admission,Admission,satisfaction
+464,deleted,Sarah,2TIC2,F,1986-01-13,Belgique,Saint-Ghislain,Belgique,Belgique,4870,TROOZ,TROOZ,Admission,,Admission,satisfaction
+465,deleted,Marie-Pauline,2TIB3,F,1983-11-30,Belgique,Messancy,Belgique,Belgique,1420,Braine-l'Alleud,Braine-l'Alleud,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+466,deleted,Sébastien,1TIB2,M,1987-02-24,Belgique,La Louvière,Belgique,Belgique,1367,RAMILLIES,RAMILLIES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+467,deleted,Hugues,1TIA2,M,1987-08-16,Belgique,Ottignies-Louvain-la-Neuve,Belgique,Belgique,4357,DONCEEL,DONCEEL,Ajournement,Admission,Admission,satisfaction
+468,deleted,Corentin,3TIA2,M,1982-08-16,Belgique,Liège,Belgique,Belgique,4920,Aywaille,Aywaille,Ajournement,Admission,Admission,satisfaction
+469,deleted,Pedro Henrique,2TIA2,M,1986-08-04,Belgique,Dinant,Belgique,Belgique,1474,Genappe,Ways,Ajournement,Refus,Refus,
+470,deleted,Benjamin,2TIB2,M,1984-08-30,Belgique,Namur,Belgique,Belgique,4040,HERSTAL,HERSTAL,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+471,deleted,Benjamin,2TIC2,M,1985-01-09,Belgique,Diest,Belgique,Belgique,4960,MALMEDY,MALMEDY,Ajournement,Refus,Refus,
+472,deleted,Audrey,3TID1,M,1981-01-21,Belgique,Namur,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Refus,Refus,
+473,deleted,Surya,2TIA2,M,1982-01-23,Belgique,Huy,Belgique,Belgique,7063,SOIGNIES,NEUFVILLES,Ajournement,Refus,Refus,
+474,deleted,Loïc,3TIB2,M,1983-04-25,Belgique,Alost,Belgique,Belgique,5500,Dinant,Dinant,Ajournement,Refus,Refus,
+475,deleted,Martin,2TIB2,M,1977-09-26,France,Charleville-Mézières,France,Belgique,6150,ANDERLUES,ANDERLUES,Ajournement,Admission,Admission,distinction
+476,deleted,Valérie,2TIB1,F,1985-10-25,Belgique,Namur,Belgique,Belgique,1420,Braine-l'Alleud,Braine-l'Alleud,Ajournement,Refus,Refus,
+477,deleted,Magali,2TIA3,F,1982-04-25,France,Mont-Saint-Martin,France,Belgique,1390,GREZ-DOICEAU,GREZ-DOICEAU,Ajournement,Admission,Admission,satisfaction
+478,deleted,Céline,2TIB2,F,1986-03-13,Belgique,Bruxelles,Belgique,Belgique,5570,VANECHE,VANECHE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+479,deleted,Nicolas,1TIA1,M,1987-09-27,Belgique,La Louvière,Belgique,Belgique,1370,JODOIGNE,JODOIGNE,Ajournement,Admission,Admission,satisfaction
+480,deleted,Kongthong,3TIA2,M,1984-11-06,Belgique,EUPEN,Belgique,Belgique,5020,NAMUR,VEDRIN,Ajournement,Admission,Admission,satisfaction
+481,deleted,Vincent,1TID2,M,1985-03-05,Belgique,Charleroi,Belgique,Belgique,1070,ANDERLECHT,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+482,deleted,Mathieu,1TIE1,M,1986-02-27,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,5060,Sambreville,Sambreville,Ajournement,Admission,Admission,satisfaction
+483,deleted,Guillaume,3TID1,M,1984-01-04,France,Ile Maurice,France,Belgique,5030,GEMBLOUX,GEMBLOUX,Admission,,Admission,satisfaction
+484,deleted,Céline,3TIB1,F,1986-12-23,Belgique,Lobbes,Belgique,Belgique,7536,Tournai,Vaulx,Ajournement,Admission,Admission,satisfaction
+485,deleted,René,2TIB1,M,1985-11-24,Belgique,Namur,Belgique,Belgique,6717,ATTERT,THIAUMONT,Ajournement,Refus,Refus,
+486,deleted,Adrien,1TIE2,M,1988-08-18,Belgique,Anderlecht,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+487,deleted,Olivier,1TIE1,M,1988-06-02,Belgique,Namur,Belgique,Belgique,1300,OTTIGNIES-LOUVAIN-LA-NEUVE,LIMAL,Admission,,Admission,satisfaction
+488,deleted,Charles,1TIC1,M,1988-06-23,Belgique,Nivelles,Belgique,Belgique,4600,VISE,VISE,Ajournement,Refus,Refus,
+489,deleted,Arnaud,1TIC2,M,1987-09-04,Belgique,Braine-l'Alleud,Belgique,Belgique,5651,WALCOURT,SOMZEE,Ajournement,Admission,Admission,satisfaction
+490,deleted,Louis,1TIC1,M,1986-12-29,Belgique,Etterbeek,Belgique,Belgique,4540,AMAY,AMPSIN,Ajournement,Refus,Refus,
+491,deleted,Matthieu,3TIC1,M,1984-07-17,Chili,Santiago,Belgique,Belgique,3090,OVERIJSE,OVERIJSE,Ajournement,Admission,Admission,satisfaction
+492,deleted,Thomas,1TIA2,M,1987-08-20,Belgique,Namur,Belgique,Belgique,1470,BAISY-THY,BAISY-THY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+493,deleted,Jérémy,1TIB2,M,1987-06-26,Belgique,NAMUR,Belgique,Belgique,6660,Houffalize,Houffalize,Ajournement,Admission,Admission,distinction
+494,deleted,Renaud,1TIC1,M,1987-06-28,Belgique,Braine-le-Comte,Belgique,Belgique,1910,KAMPENHOUT,BERG,Ajournement,Refus,Refus,
+495,deleted,Tiby,1TIF1,M,1986-01-26,Belgique,Uccle,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Refus,Refus,
+496,deleted,Guillaume,2TIB3,M,1987-02-04,Belgique,Namur,Belgique,Belgique,5600,PHILIPPEVILLE,FRANCHIMONT,Ajournement,Refus,Refus,
+497,deleted,Bastien,1TIA1,M,1987-05-05,Belgique,Charleroi,Belgique,Belgique,1300,WAVRE,WAVRE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+498,deleted,Yassin,3TIC2,M,1986-07-26,Belgique,LIEGE,Belgique,Belgique,4650,HERVE,HERVE,Admission,,Admission,distinction
+499,deleted,François,1TIF1,M,1985-10-05,Belgique,ARLON,Belgique,Belgique,5651,WALCOURT,SOMZEE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+500,deleted,Simon,3TIC2,M,1984-06-16,Belgique,Charleroi,Belgique,Belgique,7000,MONS,MONS,Ajournement,Admission,Admission,satisfaction
+501,deleted,Guillaume,1TIB1,M,1987-06-14,France,Courbevoie,France,Belgique,5060,SAMBREVILLE,TAMINES,Ajournement,Refus,Refus,
+502,deleted,Christophe,1TID2,M,1987-06-21,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,9690,WATRANGE,WATRANGE,Ajournement,Refus,Refus,
+503,deleted,Noëllie,1TID1,F,1987-06-19,Belgique,Ottignies,Belgique,Belgique,6211,LES-BONS-VILLERS,MELLET,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+504,deleted,Aurélia,3TIB2,F,1983-06-14,Belgique,SANKT-VITH,Belgique,Belgique,4960,MALMEDY,MALMEDY,Ajournement,Admission,Admission,satisfaction
+505,deleted,Bruno,1TID1,M,1988-05-11,Belgique,NAMUR,Belgique,Belgique,5537,Anhée,Bioul,Ajournement,Refus,Refus,
+506,deleted,Tiziano,1TIE2,M,1986-02-21,Belgique,MESSANCY,Belgique,Belgique,5537,ANHEE,ANHEE,Ajournement,Refus,Refus,
+507,deleted,Jordan,2TIA1,M,1985-12-21,Belgique,Charleroi,Belgique,Belgique,5363,HAMOIS,EMPTINNE,Ajournement,Refus,Refus,
+508,deleted,Benjamin,1TIB2,M,1987-04-10,Belgique,Liège,Belgique,Belgique,6061,Charleroi,Montignies-sur-Sambre,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+509,deleted,Denis,2TIB2,M,1986-08-29,Belgique,Etterbeek,Belgique,Belgique,6540,LOBBES,LOBBES,Ajournement,Refus,Refus,
+510,deleted,Etienne,2TIC2,M,1985-02-17,Belgique,Saint-Nicolas,Belgique,Belgique,5600,PHILIPPEVILLE,PHILIPPEVILLE,Ajournement,Refus,Refus,
+511,deleted,Yannick,2TID2,M,1984-09-15,Belgique,Etterbeek,Belgique,Belgique,1170,WATERMAEL-BOITSFORT,BRUXELLES,Ajournement,Refus,Refus,
+512,deleted,Jérémy,1TIA2,M,1984-07-03,Belgique,Chimay,Belgique,Belgique,6142,Fontaine-l'Evêque,Leernes,Ajournement,Refus,Refus,
+513,deleted,Benoît,2TIC2,M,1987-08-15,Belgique,Namur,Belgique,Belgique,6700,ARLON,ARLON,Admission,,Admission,distinction
+514,deleted,François,3TIC2,M,1985-06-02,Belgique,Anderlecht,Belgique,Belgique,6953,NASSOGNE,NASSOGNE,Ajournement,Admission,Admission,satisfaction
+515,deleted,Martin,1TIE2,M,1988-04-20,Belgique,Berchem-Sainte-Agathe,Belgique,Belgique,1040,Etterbeek,Bruxelles,Ajournement,Admission,Admission,satisfaction
+516,deleted,Gregory,2TID1,M,1984-06-07,Belgique,Namur,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Refus,Refus,
+517,deleted,Jonathan,1TIA1,M,1984-01-16,France,Rennes,France,Belgique,5000,Namur,Namur,Ajournement,Refus,Refus,
+518,deleted,Paolo,2TIC2,M,1987-08-11,Belgique,Marche-en-Famenne,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+519,deleted,Jean-Sébastien,2TIB2,M,1987-02-03,Belgique,Gosselies,Belgique,Belgique,1300,WAVRE,WAVRE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+520,deleted,Baptiste,1TIF1,M,1986-05-07,Belgique,Etterbeek,Belgique,Belgique,1450,Chastre,Chastre,Ajournement,Admission,Admission,satisfaction
+521,deleted,Caroline,2TIB3,F,1985-04-06,Belgique,Charleroi,Belgique,Belgique,1348,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES-LOUVAIN-LA-NEUVE,Ajournement,Admission,Admission,satisfaction
+522,deleted,Maxime,1TIE2,M,1986-02-14,Belgique,Sambreville,Belgique,Belgique,1180,UCCLE,BRUXELLES,Ajournement,Refus,Refus,
+523,deleted,Alexandre,1TIC1,M,1987-09-23,Luxembourg,Luxembourg,Luxembourg,Belgique,5555,GRAND FAILLY BIEVRE,GRAND FAILLY BIEVRE,Ajournement,Admission,Admission,satisfaction
+524,deleted,François,2TIA3,M,1988-01-10,Belgique,Huy,Belgique,Belgique,4432,Juprelle,Alleur,Admission,,Admission,satisfaction
+525,deleted,Jennifer,1TIF2,F,1985-12-26,France,Sartrouville,France,Belgique,6767,ROUVROY,DAMPICOURT,Ajournement,Admission,Admission,satisfaction
+526,deleted,Alicher,1TIE1,M,1983-04-22,Congo Brazzaville,Lubumbashi,Belgique,Belgique,1020,LAEKEN,BRUXELLES,Ajournement,Refus,Refus,
+527,deleted,Antonin,3TIB2,M,1983-09-25,Belgique,Charleroi,Belgique,Belgique,1090,JETTE,BRUXELLES,Ajournement,Refus,Refus,
+528,deleted,Marie,1TIE2,F,1987-05-16,Belgique,Dinant,Belgique,Belgique,1702,DILBEEK,GROOT-BIJGAARDEN,Ajournement,Admission,Admission,satisfaction
+529,deleted,Ryad,2TIA1,M,1984-07-04,France,Wattrelos,France,Belgique,1180,Bruxelles,Bruxelles,Ajournement,Admission,Admission,satisfaction
+530,deleted,Nicolas,1TIC1,M,1985-03-26,Belgique,Charleroi,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+531,deleted,Sébastien,3TIC1,M,1985-09-05,Belgique,Schaerbeek,Belgique,Belgique,5002,NAMUR,SAINT-SERVAIS,Admission,,Admission,distinction
+532,deleted,Sandrine,1TIA2,F,1986-12-06,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,7060,SOIGNIES,SOIGNIES,Ajournement,Refus,Refus,
+533,deleted,Robin,1TIB1,M,1986-08-04,Belgique,LIEGE,Belgique,Belgique,1401,NIVELLES,BAULERS,Ajournement,Admission,Admission,satisfaction
+534,deleted,Ophélie,1TIE2,F,1988-07-28,Belgique,Bruxelles,Belgique,Belgique,6780,MESSANCY,MESSANCY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+535,deleted,Saniya,1TIC2,F,1987-08-27,Belgique,Bruxelles,Belgique,Belgique,5377,SOMME-LEUZE,BAILLONVILLE,Ajournement,Refus,Refus,
+536,deleted,Loïc,3TIC1,M,1986-06-29,Belgique,ETTERBEEK,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Admission,,Admission,satisfaction
+537,deleted,Pascal,2TIA2,M,1984-03-12,Belgique,LIEGE,Belgique,Belgique,6820,FLORENVILLE,SAINTE-CECILE,Ajournement,Refus,Refus,
+538,deleted,Constant,2TIB1,M,1984-05-04,Belgique,Marche-en-Famenne,Belgique,Belgique,6060,CHARLEROI,GILLY,Ajournement,Refus,Refus,
+539,deleted,Florentin,3TID1,M,1982-09-10,Belgique,Braine-l'Alleud,Belgique,Belgique,4900,Spa,Spa,Admission,,Admission,satisfaction
+540,deleted,Eddy,2TIC2,M,1983-07-09,Belgique,Arlon,Belgique,Belgique,1470,Genappe,Bousval,Ajournement,Admission,Admission,distinction
+541,deleted,Alexandra,3TIB1,F,1984-03-22,Belgique,Etterbeek,Belgique,Belgique,5100,NAMUR,NAMUR,Ajournement,Admission,Admission,satisfaction
+542,deleted,Cédric,2TIC2,M,1985-07-26,Luxembourg,Luxembourg,Luxembourg,Belgique,5570,BEAURAING,DION,Admission,,Admission,distinction
+543,deleted,Ludovic,2TID2,M,1987-07-12,Belgique,Namur,Belgique,Belgique,6230,BUZET,BUZET,Ajournement,Refus,Refus,
+544,deleted,Thomas,1TIE1,M,1987-10-23,France,Nice,Belgique,Belgique,7860,Lessines,Lessines,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+545,deleted,Jennifer,3TIB2,F,1985-01-21,Belgique,Auvelais,Belgique,Belgique,7131,WAUDREZ-BINCHE,WAUDREZ-BINCHE,Admission,,Admission,satisfaction
+546,deleted,Louis,1TIF1,M,1986-07-28,Belgique,Charleroi,Belgique,Belgique,1342,Ottignies-Louvain-la-Neuve,Limelette,Ajournement,Refus,Refus,
+547,deleted,Jeffrey,2TIB2,M,1986-05-26,Belgique,Uccle,Belgique,Belgique,5190,JEMEPPE-SUR-SAMBRE,SPY,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+548,deleted,Thomas,1TID1,M,1988-01-14,Belgique,Namur,France,Belgique,4800,VERVIERS,VERVIERS,Ajournement,Refus,Refus,
+549,deleted,Nicolas,3TIA1,M,1984-04-17,Belgique,HUY,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Ajournement,Refus,
+550,deleted,Sarah,2TIA3,F,1987-12-17,Belgique,BRUXELLES,Belgique,Belgique,1170,Watermael-Boitsfort,Bruxelles,Ajournement,Refus,Refus,
+551,deleted,Kevin,3TIC1,M,1986-05-07,Belgique,Uccle,Belgique,Belgique,1480,TUBIZE,TUBIZE,Admission,,Admission,satisfaction
+552,deleted,Thomas,1TIA2,M,1988-09-23,Belgique,LIEGE,Belgique,Belgique,1160,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+553,deleted,Isidore,1TIA1,M,1986-01-11,Belgique,Verviers,Belgique,Belgique,5004,Namur,Bouge,Ajournement,Refus,Refus,
+554,deleted,Olivier,1TIB2,M,1986-04-18,Belgique,Charleroi,Belgique,Belgique,6043,FANSART,FANSART,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+555,deleted,Sébastien,2TIA1,M,1983-04-20,Belgique,Marche-en-Famenne,Belgique,Belgique,6040,CHARLEROI,CHARLEROI,Ajournement,Refus,Refus,
+556,deleted,Xavier,1TIE1,M,1986-05-08,Belgique,Woluwé-saint-Lambert,Belgique,Belgique,4250,GEER,GEER,Ajournement,Refus,Refus,
+557,deleted,Fabien,1TIF1,M,1983-02-09,Belgique,Messancy,Belgique,Belgique,4020,LIEGE,LIEGE,Admission,,Admission,satisfaction
+558,deleted,Céline,3TIB2,F,1985-11-09,Belgique,Ixelles,Belgique,Belgique,1300,Wavre,Wavre,Admission,,Admission,satisfaction
+559,deleted,Loris,2TIC1,M,1985-02-22,Belgique,Ixelles,Belgique,Belgique,1050,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+560,deleted,Geoffrey,2TIA1,M,1984-03-31,Belgique,Etterbeek,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+561,deleted,Clémentine,3TIC2,F,1986-02-07,Chine,Wenchang Guangdong,Belgique,Belgique,1330,RIXENSART,RIXENSART,Admission,,Admission,grande distinction
+562,deleted,Simon,3TIA2,M,1982-06-03,Belgique,Uccle,Belgique,Belgique,1933,Zaventem,Sterrebeek,Admission,,Admission,satisfaction
+563,deleted,Adrien,1TID2,M,1984-05-30,Belgique,ETTERBEEK,Belgique,Belgique,5030,Gembloux,Gembloux,Ajournement,Refus,Refus,
+564,deleted,Antoine,1TID2,M,1988-10-14,Belgique,Saint-Ghislain,Belgique,Belgique,4820,DISON,DISON,Ajournement,Refus,Refus,
+565,deleted,Aurore,1TIE2,F,1988-01-10,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,5340,GESVES,GESVES,Admission,,Admission,satisfaction
+566,deleted,Guillaume,1TIF1,M,1988-12-01,Belgique,Uccle,Belgique,Belgique,5081,LA BRUYERE,SAINT-DENIS-BOVESSE,Admission,,Admission,satisfaction
+567,deleted,Alexis,3TIC2,M,1981-07-07,Belgique,DINANT,Belgique,Belgique,7800,ATH,ATH,Admission,,Admission,distinction
+568,deleted,Romain,3TIC1,M,1984-10-17,Belgique,Ottignies,Belgique,Belgique,1380,LASNE,LASNE,Admission,,Admission,satisfaction
+569,deleted,Antoine,3TIC2,M,1985-08-18,Belgique,Verviers,Belgique,Belgique,6150,Anderlues,Anderlues,Ajournement,Admission,Admission,satisfaction
+570,deleted,Fabrice,2TIC1,M,1982-03-09,Belgique,NAMUR,Congo République Démocratique,Belgique,1950,KRAAINEM,KRAAINEM,Ajournement,Refus,Refus,
+571,deleted,Nina,2TIA2,F,1986-01-27,Tunisie,Ariana,Belgique,Belgique,6870,Saint-Hubert,Saint-Hubert,Ajournement,Refus,Refus,
+572,deleted,Laurent,1TIB2,M,1988-10-30,Belgique,Saint-Josse-ten-Noode,Belgique,Belgique,1030,BRUXELLES,BRUXELLES,Admission,,Admission,satisfaction
+573,deleted,Christophe,1TIF2,M,1981-03-05,Belgique,BERCHEM-SAINTE-AGATHE,Belgique,Belgique,1300,OTTIGNIES-LOUVAIN-LA-NEUVE,LIMAL,Admission,,Admission,satisfaction
+574,deleted,Amaury,2TIA3,M,1986-03-04,Belgique,Uccle,Belgique,Belgique,1190,FOREST,FOREST,Ajournement,Refus,Refus,
+575,deleted,Maxime,2TIB3,M,1986-07-14,Belgique,Uccle,Belgique,Belgique,1420,BRAINE-l'ALLEUD,BRAINE-l'ALLEUD,Ajournement,Refus,Refus,
+576,deleted,Dominic,3TIA2,M,1981-10-28,Belgique,Namur,Belgique,Belgique,5060,SAMBREVILLE,SAMBREVILLE,Ajournement,Refus,Refus,
+577,deleted,Jérémy,3TIA1,M,1985-04-12,Belgique,Boussu,Belgique,Belgique,5361,HAMOIS,MOHIVILLE,Ajournement,Refus,Refus,
+578,deleted,Romain,3TIC1,M,1973-12-05,Cameroun,Wum,Cameroun,Belgique,1450,CHASTRE,CHASTRE,Admission,,Admission,distinction
+579,deleted,Alexandre,2TID1,M,1985-03-24,Belgique,Sambreville,Belgique,Belgique,6540,LOBBES,LOBBES,Ajournement,Refus,Refus,
+580,deleted,Kévin,2TID2,M,1984-01-30,Belgique,Huy,Belgique,Belgique,1180,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+581,deleted,Florent,1TIE2,M,1988-07-09,Belgique,La Louvière,Belgique,Belgique,6440,Froidchapelle,Froidchapelle,Ajournement,Refus,Refus,
+582,deleted,Hervé,2TIA1,M,1981-02-10,Belgique,Seraing,Belgique,Belgique,1330,RIXENSART,RIXENSART,Ajournement,Refus,Refus,
+583,deleted,Wendy,2TIB2,F,1986-08-15,Belgique,Arlon,Belgique,Belgique,5300,ANDENNE,ANDENNE,Ajournement,Admission,Admission,satisfaction
+584,deleted,Rémi,1TID2,M,1987-01-23,Belgique,Liège,Belgique,Belgique,6040,CHARLEROI,JUMET,Ajournement,Refus,Refus,
+585,deleted,Jérémy,1TIF2,M,1986-10-12,Belgique,Braine-l'Alleud,Belgique,Belgique,6530,THUIN,THUIN,Ajournement,Refus,Refus,
+586,deleted,Pierre-Emmanuel,1TIC2,M,1986-08-11,Belgique,Charleroi,Belgique,Belgique,1210,BRUXELLES,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+587,deleted,Styven,1TIC1,M,1984-03-05,Colombie,Segovia,Belgique,Belgique,6230,PONT-A-CELLES,THIMEON,Ajournement,Refus,Refus,
+588,deleted,Julien,1TIC1,M,1987-12-21,Belgique,UCCLE,Belgique,Belgique,62570,PIHEN,PIHEN,Ajournement,Refus,Refus,
+589,deleted,Aline,1TIE1,F,1984-07-18,Belgique,Dinant,Belgique,Belgique,5170,Profondeville,Bois-de-Villers,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+590,deleted,Guillaume,2TIB2,M,1982-08-21,Belgique,Uccle,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+591,deleted,Emilie,1TIF1,F,1988-03-25,Belgique,Bruxelles,Belgique,Belgique,1600,LEEUW St Pierre,LEEUW St Pierre,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+592,deleted,Charles,1TIF2,M,1986-04-09,Belgique,Namur,Belgique,Belgique,1200,WOLUWE-SAINT-LAMBERT,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+593,deleted,Thomas,1TIE2,M,1983-12-06,Belgique,Liège,Belgique,Belgique,1200,Woluwe-Saint-Lambert,Bruxelles,Ajournement,Refus,Refus,
+594,deleted,Elliot,1TID1,M,1986-04-21,Belgique,Bruxelles,Belgique,Belgique,1341,OTTIGNIES-LOUVAIN-LA-NEUVE,CEROUX-MOUSTY,Ajournement,Admission,Admission,satisfaction
+595,deleted,Grégory,2TIB3,M,1985-04-01,Belgique,Liège,Belgique,Belgique,6800,LIBRAMONT-CHEVIGNY,LIBRAMONT-CHEVIGNY,Ajournement,Refus,Refus,
+596,deleted,Eve,3TIB2,F,1985-03-10,Belgique,Braine-l'Alleud,Belgique,Belgique,3090,OVERIJSE,OVERIJSE,Ajournement,Admission,Admission,satisfaction
+597,deleted,Jérémy,1TIC1,M,1986-02-21,Belgique,Halle,Belgique,Belgique,5080,La Bruyère,Emines,Ajournement,Refus,Refus,
+598,deleted,Magali,2TIB1,F,1984-02-21,Belgique,Montigny-le-Tilleul,Belgique,Belgique,7730,ESTAIMPUIS,BAILLEUL,Ajournement,Refus,Refus,
+599,deleted,Damien,3TIB1,M,1986-06-04,Belgique,Charleroi,Belgique,Belgique,1080,BERCHE STE AGATHE,BERCHE STE AGATHE,Admission,,Admission,satisfaction
+600,deleted,Victorine,3TIB1,F,1982-06-13,Belgique,Namur,Belgique,Belgique,6781,Messancy,Sélange,Ajournement,Admission,Admission,satisfaction
+601,deleted,Céline,1TIC2,F,1985-07-19,Belgique,Uccle,Belgique,Belgique,1390,Grez-Doiceau,Grez-Doiceau,Ajournement,Admission,Admission,satisfaction
+602,deleted,Marina,1TIE1,F,1988-06-06,France,Valenciennes,France,Belgique,4030,Liège,Grivegnée,Hors Session,,Hors Session,
+603,deleted,Pierre,1TID1,M,1986-09-06,France,CALAIS,France,Belgique,6464,CHIMAY,L'ESCAILLERE,Ajournement,Refus,Refus,
+604,deleted,Baptiste,1TIA1,M,1984-11-16,Guatemala,Guatemala,Belgique,Belgique,5580,ROCHEFORT,ROCHEFORT,Ajournement,Refus,Refus,
+605,deleted,Dany,1TIA2,M,1985-11-02,Belgique,Bruxelles,Belgique,Belgique,6180,COURCELLES,COURCELLES,Ajournement,Refus,Refus,
+606,deleted,Thomas,1TIC2,M,1986-10-26,Belgique,Anderlecht,Belgique,Belgique,5550,VRESSE-SUR-SEMOIS,VRESSE-SUR-SEMOIS,Ajournement,Refus,Refus,
+607,deleted,Nicolas,1TIF1,M,1987-12-10,Belgique,Ath,Inde,Belgique,7180,Seneffe,Seneffe,Ajournement,Refus,Refus,
+608,deleted,Maëva,3TIC1,F,1984-02-23,Belgique,Etterbeek,Belgique,Belgique,6831,BOUILLON,NOIREFONTAINE,Admission,,Admission,distinction
+609,deleted,Delphine,1TIF2,F,1988-07-01,Belgique,La Louvière,Belgique,Belgique,5070,FOSSES-LA-VILLE,FOSSES-LA-VILLE,Ajournement,Admission,Admission,satisfaction
+610,deleted,Maxime,1TIB2,M,1985-01-25,Pérou,Arequipa,Belgique,Belgique,1731,ASSE,ZELLIK,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+611,deleted,Wendy,2TID2,F,1985-03-16,Belgique,Soignies,Belgique,Belgique,4500,HUY,HUY,Ajournement,Refus,Refus,
+612,deleted,Ihsen,3TIC2,F,1987-05-06,Belgique,La Louvière,Belgique,Belgique,1370,Jodoigne,Jodoigne,Admission,,Admission,satisfaction
+613,deleted,Julien,2TIA2,M,1985-04-05,Belgique,Marche-en-Famenne,Belgique,Belgique,6030,CHARLEROI,MARCHIENNE-AU-PONT,Ajournement,Refus,Refus,
+614,deleted,Arnaud,2TIA1,M,1987-04-13,Belgique,Charleroi,Belgique,Belgique,1367,MONT ST ANDRE,MONT ST ANDRE,Admission,,Admission,satisfaction
+615,deleted,Damiano,3TIB2,M,1982-11-21,Belgique,Verviers,Belgique,Belgique,1490,COURT-SAINT-ETIENNE,COURT-SAINT-ETIENNE,Admission,,Admission,satisfaction
+616,deleted,Olivier,1TIE1,M,1988-09-29,Belgique,Charleroi,Belgique,Belgique,5001,NAMUR,BELGRADE,Ajournement,Refus,Refus,
+617,deleted,Bruno,1TID2,M,1984-02-22,Belgique,Bruxelles,Belgique,Belgique,1341,OTTIGNIES-LOUVAIN-LA-NEUVE,CEROUX-MOUSTY,Ajournement,Admission,Admission,satisfaction
+618,deleted,Sylvain,1TIE2,M,1983-07-28,Bolivie,Inquisivi,Belgique,Belgique,1210,SAINT-JOSSE-TEN-NOODE,BRUXELLES,Ajournement,Refus,Refus,
+619,deleted,Aurélien,1TIC1,M,1983-08-15,Belgique,KORTRIJK,Belgique,Belgique,5310,EGHEZEE,LEUZE,Admission,,Admission,distinction
+620,deleted,Anthony,1TIA2,M,1987-04-24,Belgique,Uccle,Belgique,Belgique,5020,Namur,Vedrin,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+621,deleted,Julien,3TIC1,M,1981-02-26,Belgique,SERAING,Belgique,Belgique,1970,Wezembeek-Oppem,Wezembeek-Oppem,Admission,,Admission,distinction
+622,deleted,Chloé,1TIA1,F,1986-07-01,Belgique,Charleroi,Belgique,Belgique,4460,GRACE-HOLLOGNE,GRACE-HOLLOGNE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+623,deleted,Raphaël,1TIB2,M,1985-01-31,Belgique,Chimay,Belgique,Belgique,1150,WOLUWE-SAINT-PIERRE,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+624,deleted,Logan,3TIC1,M,1982-03-11,Belgique,Bruxelles,Belgique,Belgique,6840,NEUFCHATEAU,NEUFCHATEAU,Admission,,Admission,satisfaction
+625,deleted,Matthieu,3TIA1,M,1982-08-27,Belgique,Soignies,Belgique,Belgique,6061,CHARLEROI,MONTIGNIES-SUR-SAMBRE,Ajournement,Refus,Refus,
+626,deleted,Cédric,2TIA1,M,1985-10-06,Belgique,Uccle,Belgique,Belgique,6210,LES-BONS-VILLERS,REVES,Ajournement,Refus,Refus,
+627,deleted,Séraphin,1TIC2,M,1987-05-17,Belgique,Charleroi,Belgique,Belgique,6762,VIRTON,SAINT-MARD,Ajournement,Refus,Refus,
+628,deleted,Benjamin,1TIF1,M,1987-10-11,Belgique,Namur,Belgique,Belgique,1340,Ottignies-Louvain-la-Neuve,Ottignies,Admission,,Admission,satisfaction
+629,deleted,William,3TIB2,M,1981-04-12,France,Livry-Gargan,France,Belgique,4608,DALHEM,WARSAGE,Ajournement,Refus,Refus,
+630,deleted,Valentin,2TIA2,M,1985-05-23,Belgique,Liège,France,France,59274,MARQUILLIES,MARQUILLIES,Ajournement,Refus,Refus,
+631,deleted,Jérémy,1TIC1,M,1988-10-17,Belgique,Bruxelles,Belgique,Belgique,4040,HERSTAL,HERSTAL,Admission,,Admission,distinction
+632,deleted,Mathieu,3TIC1,M,1983-12-30,Belgique,Namur,Belgique,Belgique,6860,LEGLISE,EBLY,Ajournement,Admission,Admission,satisfaction
+633,deleted,Thomas,1TIF2,M,1988-02-04,Belgique,SAMBREVILLE,Belgique,Belgique,3090,OVERIJSE,OVERIJSE,Ajournement,Admission,Admission,distinction
+634,deleted,Violette,2TIB2,F,1986-02-07,Belgique,Bruxelles,Belgique,Belgique,1342,OTTIGNIES,OTTIGNIES,Ajournement,Refus,Refus,
+635,deleted,Dimitri,2TIB3,M,1981-04-23,Madagascar,Madagascar,Madagascar,Belgique,1080,MOLENBEEK-SAINT-JEAN,BRUXELLES,Ajournement,Refus,Refus,
+636,deleted,Mikaël,3TID1,M,1984-12-02,Allemagne,EIGENBRAKEL,Belgique,Belgique,1360,PERWEZ,PERWEZ,Admission,,Admission,grande distinction
+637,deleted,Morgane,2TIB1,F,1984-07-16,Belgique,Oupeye,Belgique,Belgique,1190,Forest,Bruxelles,Ajournement,Refus,Refus,
+638,deleted,Corentin,1TIF1,M,1987-06-20,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,6800,Libramont-Chevigny,Libramont-Chevigny,Ajournement,Admission,Admission,satisfaction
+639,deleted,Alexandre,1TID2,M,1988-06-01,Belgique,Libramont-Chevigny,Belgique,Belgique,3090,Overijse,Overijse,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+640,deleted,Jérémy,1TIE2,M,1985-08-28,Belgique,Etterbeek,Belgique,Belgique,7830,SILLY,SILLY,Ajournement,Refus,Refus,
+641,deleted,Renaud,1TID2,M,1988-10-13,Belgique,Etterbeek,Belgique,Belgique,5310,EGHEZEE,LEUZE,Ajournement,Admission,Admission,satisfaction
+642,deleted,Maxime,3TIA1,M,1982-12-26,Grèce,THESSALONIQUE,Belgique,Belgique,7180,SENEFFE,SENEFFE,Ajournement,Admission,Admission,satisfaction
+643,deleted,Sébastien,1TIB2,M,1987-09-03,Belgique,Namur,Belgique,Belgique,1332,RIXENSART,GENVAL,Ajournement,Refus,Refus,
+644,deleted,Marine,1TIE1,F,1986-05-30,Pays-Bas,Rotterdam,France,Belgique,7822,Ath,Ghislenghien,Ajournement,Admission,Admission,satisfaction
+645,deleted,Julien,2TIC2,M,1984-05-30,Belgique,Etterbeek,Belgique,Belgique,5377,SOMME-LEUZE,SINSIN,Ajournement,Admission,Admission,satisfaction
+646,deleted,Maximilien,1TIF2,M,1988-06-12,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,1470,Genappe,Bousval,Ajournement,Refus,Refus,
+647,deleted,Patrice,2TIA1,M,1984-11-23,Belgique,Namur,Belgique,Belgique,6880,Bertrix,Bertrix,Ajournement,Refus,Refus,
+648,deleted,Raphaël,1TIC2,M,1985-01-12,Belgique,Namur,Belgique,Belgique,1367,RAMILLIES,RAMILLIES-OFFUS,Ajournement,Refus,Refus,
+649,deleted,Clément,1TIA2,M,1988-10-13,Belgique,Virton,Belgique,Belgique,6600,BASTOGNE,BASTOGNE,Ajournement,Admission,Admission,satisfaction
+650,deleted,Alban,1TIA1,M,1987-04-09,Belgique,Montignies-le-Tilleul,Belgique,Belgique,6120,COUR SUR HEURE,COUR SUR HEURE,Ajournement,Admission,Admission,satisfaction
+651,deleted,Benoît,1TIB2,M,1987-03-24,Belgique,Rocourt,Belgique,Belgique,1400,NIVELLES,NIVELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+652,deleted,Jérémy,1TIF2,M,1987-09-14,Belgique,Charleroi,Belgique,Belgique,7080,Frameries,Frameries,Ajournement,Refus,Refus,
+653,deleted,Kevin,1TIC1,M,1988-05-21,Belgique,Charleroi,Belgique,Belgique,6001,CHARLEROI,MARCINELLE,Ajournement,Refus,Refus,
+654,deleted,Adrien,1TIB1,M,1984-07-12,Belgique,Marche-en-Famenne,Belgique,Belgique,6230,PONT-A-CELLES,PONT-A-CELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+655,deleted,Kevin,1TIE2,M,1986-08-01,Belgique,Namur,Belgique,Belgique,6767,ROUVROY,LAMORTEAU,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+656,deleted,Hakim,1TIF2,M,1987-05-04,Belgique,Woluwé-Saint-Lambert,Belgique,Belgique,8940,WERVIK,WERVIK,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+657,deleted,Samuel,1TIF1,M,1988-10-07,Belgique,Namur,Belgique,Belgique,7784,Comines-Warneton,Bas-Warneton,Ajournement,Admission,Admission,satisfaction
+658,deleted,Kévin,2TID2,M,1984-04-02,Portugal,Peso da Régua,Portugal,Belgique,5362,Hamois,Achet,Ajournement,Admission,Admission,satisfaction
+659,deleted,Maxime,1TIF2,M,1986-12-25,Belgique,Bruxelles,Belgique,Belgique,7190,ECAUSSINNES,ECAUSSINNES,Ajournement,Refus,Refus,
+660,deleted,Kevin,1TIC2,M,1983-02-01,Inde,Moobidri,Belgique,Belgique,5360,Hamois,Natoye,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+661,deleted,Quentin,1TIB1,M,1986-06-28,France,Drancy,France,Belgique,1360,PERWEZ,PERWEZ,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+662,deleted,Arnaud,3TID1,M,1982-03-26,France,Arras,France,Belgique,1030,BRUXELLES,BRUXELLES,Admission,,Admission,grande distinction
+663,deleted,Moussa,2TIA1,M,1986-03-25,Belgique,Verviers,Belgique,Belgique,1030,SCHAERBEEK,BRUXELLES,Ajournement,Refus,Refus,
+664,deleted,Thomas,2TIC2,M,1982-06-27,Belgique,UCCLE,Belgique,Belgique,1180,UCCLE,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+665,deleted,Michaël,3TIB1,M,1984-09-15,Belgique,Namur,Belgique,Belgique,7160,Chapelle-lez-Herlaimont,Chapelle-lez-Herlaimont,Admission,,Admission,distinction
+666,deleted,Rémy,1TID2,M,1986-03-20,Belgique,OTTIGNIES-LOUVAIN-LA-NEUVE,Belgique,Belgique,1390,Grez-Doiceau,Grez-Doiceau,Ajournement,Admission,Admission,satisfaction
+667,deleted,Mathieu,2TID1,M,1983-09-02,Belgique,Sambreville,Belgique,Belgique,1933,ZAVENTEM,STERREBEEK,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+668,deleted,Daphné,3TIB1,F,1985-07-17,Belgique,Uccle,Belgique,Belgique,1081,Koekelberg,Bruxelles,Admission,,Admission,distinction
+669,deleted,Cédric,1TIE1,M,1988-12-23,Belgique,Namur,Belgique,Belgique,6120,HAM-SUR-HEURE/NALINNES,JAMIOULX,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+670,deleted,Yannick,2TIA3,M,1985-09-10,Belgique,Charleroi,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+671,deleted,Valentin,2TIC2,M,1984-07-20,Belgique,Charleroi,Belgique,Belgique,5600,PHILIPPEVILLE,PHILIPPEVILLE,Ajournement,Admission,Admission,satisfaction
+672,deleted,Valentin,3TIB1,M,1986-09-30,Belgique,SCHAERBEEK,Belgique,Belgique,7608,Péruwelz,Wiers,Admission,,Admission,satisfaction
+673,deleted,Arnaud,1TIC1,M,1986-07-17,Belgique,Charleroi,Belgique,Belgique,5031,GEMBLOUX,GEMBLOUX,Ajournement,Refus,Refus,
+674,deleted,Jérémy,1TID1,M,1985-09-13,Grèce,Maroussi,Grèce,Belgique,1210,BRUXELLES,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+675,deleted,Sophie,1TIF1,F,1988-08-04,Belgique,Bruxelles,Belgique,Belgique,4000,LIEGE,LIEGE,Ajournement,Refus,Refus,
+676,deleted,Abel,3TIB1,M,1982-06-04,Roumanie,BUCAREST,Belgique,Belgique,6762,Virton,Saint-Mard,Admission,,Admission,grande distinction
+677,deleted,Michaël,1TIB2,M,1982-11-22,Belgique,Oupeye,Belgique,Belgique,5377,SOMME-LEUZE,HOGNE,Ajournement,Refus,Refus,
+678,deleted,Fani,1TID1,F,1988-10-08,France,Sarraguemines,France,Belgique,5660,COUVIN,GONRIEUX,Admission,,Admission,satisfaction
+679,deleted,Ivan Loth,1TIF2,M,1988-05-30,Belgique,Namur,Belgique,Belgique,6010,Charleroi,Couillet,Ajournement,Admission,Admission,satisfaction
+680,deleted,Benoit,3TIB2,M,1985-06-14,Belgique,Arlon,Belgique,Belgique,5300,ANDENNE,ANDENNE,Ajournement,Refus,Refus,
+681,deleted,Valentin,1TIB1,M,1988-10-24,Belgique,Namur,Belgique,Belgique,5030,Gembloux,Gembloux,Ajournement,Refus,Refus,
+682,deleted,Cindy,2TIA3,F,1984-11-02,France,Corbie,France,Belgique,1367,Ramillies,Autre-Eglise,Ajournement,Refus,Refus,
+683,deleted,Grégory,1TIA1,M,1986-06-25,Belgique,Huy,Belgique,Belgique,5574,Beauraing,Pondrôme,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+684,deleted,Guillaume,3TIC1,M,1983-08-09,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,6030,CHARLEROI,GOUTROUX,Ajournement,Ajournement,Refus,
+685,deleted,Benoit,2TIA2,M,1979-11-19,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,4557,Tinlot,Ramelot,Ajournement,Refus,Refus,
+686,deleted,Amandine,2TID1,F,1983-06-10,France,Wattrelos,France,Belgique,6780,Messancy,Messancy,Admission,,Admission,grande distinction
+687,deleted,Deborah,2TIC2,F,1986-07-06,Belgique,Libramont-Chevigny,Belgique,Belgique,1081,KOEKELBERG,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+688,deleted,Fabien,1TIA2,M,1984-06-03,Belgique,IXELLES,Belgique,Belgique,7160,CHAPELLE-LEZ-HERLAIMONT,GODARVILLE,Ajournement,Refus,Refus,
+689,deleted,Arnaud,2TIA3,M,1987-07-10,Belgique,Seraing,Belgique,Belgique,5080,LA BRUYERE,WARISOULX,Ajournement,Refus,Refus,
+690,deleted,Romain,2TIB1,M,1985-01-16,Belgique,Charleroi,Belgique,Belgique,1300,WAVRE,WAVRE,Admission,,Admission,distinction
+691,deleted,Noémie,1TID1,F,1988-02-03,Belgique,Braine-L'Alleud,Belgique,Belgique,1420,Braine-l'Alleud,Braine-l'Alleud,Ajournement,Refus,Refus,
+692,deleted,Vincent,2TIB2,M,1984-04-10,Belgique,Uccle,Belgique,Belgique,4577,MODAVE,MODAVE,Ajournement,Refus,Refus,
+693,deleted,Anne-Lise,2TIA1,F,1985-10-18,Belgique,Bruxelles,Belgique,Belgique,6560,ERQUELINNES,ERQUELINNES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+694,deleted,Fanny,1TIA2,F,1987-01-09,Belgique,Saint-Guislain,Belgique,Belgique,5002,SAINT-SERVAIS,SAINT-SERVAIS,Ajournement,Admission,Admission,satisfaction
+695,deleted,Cassandre,1TIA1,F,1987-05-20,Belgique,Braine-l'Alleud,Belgique,Belgique,7000,MONS,MONS,Admission,,Admission,satisfaction
+696,deleted,Sébastien,1TIA2,M,1985-03-29,France,SAINTE-CATHERINE,France,Belgique,1030,SCHAERBEEK,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+697,deleted,Gauthier,1TID2,M,1969-06-03,Maroc,FQUIH BEN SALAH,Belgique,Belgique,1367,Ramillies,Gérompont,Admission,,Admission,distinction
+698,deleted,Mahad,1TIE1,M,1984-04-16,Roumanie,BUCAREST,Roumanie,Belgique,6987,RENDEUX,RENDEUX,Ajournement,Refus,Refus,
+699,deleted,Nikola,1TIB2,M,1988-12-06,Belgique,Libramont-Chevigny,Belgique,Belgique,6120,HAM-SUR-HEURE/NALINNES,NALINNES,Ajournement,Admission,Admission,satisfaction
+700,deleted,Antoine,2TIB3,M,1982-10-11,Belgique,Virton,Belgique,Belgique,7110,La Louvière,Maurage,Ajournement,Refus,Refus,
+701,deleted,Christophe,1TIC1,M,1986-12-11,Belgique,Namur,Belgique,Belgique,8600,GIVET,GIVET,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+702,deleted,Christophe,1TIF2,M,1987-08-04,Belgique,ANDERLECHT,Belgique,Belgique,4650,HERVE,HERVE,Ajournement,Refus,Refus,
+703,deleted,Frédérick,2TIC2,M,1979-09-03,Cameroun,Bafoussam,Cameroun,Belgique,6220,FLEURUS,FLEURUS,Ajournement,Refus,Refus,
+704,deleted,Amélie,2TIC1,F,1987-11-09,Belgique,Charleroi,Belgique,Belgique,6182,COURCELLES,COURCELLES,Ajournement,Admission,Admission,satisfaction
+705,deleted,Quentin,1TIA2,M,1987-07-12,Belgique,Uccle,Belgique,Belgique,1030,Schaerbeek,Bruxelles,Ajournement,Refus,Refus,
+706,deleted,François,1TIC1,M,1987-07-03,Belgique,Arlon,Belgique,Belgique,7100,La Louvière,Haine-Saint-Paul,Ajournement,Admission,Admission,satisfaction
+707,deleted,Aurore,3TIC1,F,1984-11-19,Belgique,Braine-l'Alleud,Belgique,Belgique,1342,OTTIGNIES-LOUVAIN-LA-NEUVE,LIMELETTE,Ajournement,Admission,Admission,satisfaction
+708,deleted,Sébastien,2TID1,M,1984-03-18,Belgique,Etterbeek,Belgique,Belgique,4053,Liège,Embourg,Ajournement,Admission,Admission,satisfaction
+709,deleted,Christelle,1TIE1,F,1984-03-23,Belgique,Ixelles,Belgique,Belgique,5330,ASSESSE,SART-BERNARD,Admission,,Admission,distinction
+710,deleted,Diego,3TIA2,M,1982-07-05,Belgique,Charleroi,Belgique,Belgique,5100,NAMUR,NANINNE,Ajournement,Refus,Refus,
+711,deleted,Florian,1TIF2,M,1984-07-13,Belgique,Namur,Belgique,Belgique,5300,ANDENNE,ANDENNE,Admission,,Admission,satisfaction
+712,deleted,Raphaël,3TIA1,M,1982-08-26,Belgique,Uccle,Belgique,Belgique,1000,BRUXELLES,BRUXELLES,Ajournement,Refus,Refus,
+713,deleted,Thomas,1TIE2,M,1986-06-07,Belgique,Ixelles,Belgique,Belgique,1970,WEZEMBEEK-OPPEM,WEZEMBEEK-OPPEM,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+714,deleted,Pierre-Guillaume,1TIF1,M,1987-09-23,Belgique,Etterbeek,Belgique,Belgique,6640,VAUX-SUR-SURE,VAUX-SUR-SURE,Ajournement,Refus,Refus,
+715,deleted,Jonathan,1TIC1,M,1985-09-15,Belgique,MARCHE-EN-FAMENNE,Belgique,Belgique,1020,LAEKEN,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+716,deleted,Florian,1TIB1,M,1984-05-03,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,6110,Montigny-le-Tilleul,Montigny-le-Tilleul,Ajournement,Refus,Refus,
+717,deleted,Clément,2TIC2,M,1986-06-02,Belgique,Libramont-Chevigny,Belgique,Belgique,6001,CHARLEROI,MARCINELLE,Admission,,Admission,satisfaction
+718,deleted,Céline,1TIA2,F,1986-09-05,Belgique,Braine-l'Alleud,Belgique,Belgique,5070,FOSSES-LA-VILLE,FOSSES-LA-VILLE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+719,deleted,Gauvain,1TIE1,M,1986-06-16,France,Wattrelos,France,Belgique,4840,WELKENRAEDT,WELKENRAEDT,Ajournement,Refus,Refus,
+720,deleted,Guillaume,1TIF1,M,1984-11-04,Belgique,Waremme,Belgique,Belgique,1800,Vilvoorde,Vilvoorde,Ajournement,Refus,Refus,
+721,deleted,Noémie,2TIB2,F,1985-06-12,Belgique,SAMBREVILLE,Belgique,Belgique,1140,EVERE,EVERE,Ajournement,Refus,Refus,
+722,deleted,Virgil,2TID1,M,1986-11-18,Belgique,Bruxelles,Belgique,Belgique,1420,Braine-l'Alleud,Braine-l'Alleud,Ajournement,Refus,Refus,
+723,deleted,Mélanie,1TIC2,F,1988-09-24,Belgique,Dinant,Belgique,Belgique,1390,Grez-Doiceau,Grez-Doiceau,Ajournement,Refus,Refus,
+724,deleted,François,1TIF2,M,1984-06-22,France,Vitry-sur-Seine,France,Belgique,5620,FLORENNES,SAINT-AUBIN,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+725,deleted,Christophe,3TIB1,M,1984-01-24,Belgique,Charleroi,Belgique,Belgique,7160,CHAPELLE-LEZ-HERLAIMONT,GODARVILLE,Admission,,Admission,distinction
+726,deleted,Pierre,1TID1,M,1986-03-20,France,Laval,France,Belgique,5590,Ciney,Ciney,Ajournement,Refus,Refus,
+727,deleted,Pierre,2TIC2,M,1986-05-09,Belgique,Namur,Belgique,Belgique,6210,Les-Bons-Villers,Frasnes-lez-Gosselies,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+728,deleted,Laurent,1TIE1,M,1985-03-30,Belgique,Etterbeek,Belgique,Belgique,7712,MOUSCRON,HERSEAUX,Ajournement,Refus,Refus,
+729,deleted,Simon-Pierre,1TIA1,M,1988-02-24,Belgique,Verviers,Belgique,Belgique,1480,Tubize,Saintes,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+730,deleted,Coraline,2TIB2,F,1986-10-19,Belgique,BRAINE-L'ALLEUD,Belgique,Belgique,1331,RIXENSART,ROSIERES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+731,deleted,Mokato,3TIB1,M,1984-03-13,Belgique,Namur,Belgique,Belgique,6900,MARLOIE,MARLOIE,Ajournement,Refus,Refus,
+732,deleted,Loïc,3TIA1,M,1985-10-15,Italie,Reggio nell'Emilia,Belgique,Belgique,6010,Charleroi,Couillet,Admission,,Admission,grande distinction
+733,deleted,Aurélien,2TIB3,M,1986-03-30,Belgique,Valdagno,Belgique,Belgique,5000,Namur,Namur,Admission,,Admission,satisfaction
+734,deleted,Mélissa,1TIF1,F,1987-05-22,Belgique,Woluwé-Saint-Lambert,Belgique,Belgique,4141,AYWAILLE,LOUVEIGNE,Ajournement,Admission,Admission,satisfaction
+735,deleted,Adrien,2TID1,M,1986-05-08,Belgique,Braine-L'Alleud,Belgique,Belgique,5081,La Bruyère,Meux,Ajournement,Refus,Refus,
+736,deleted,Guillaume,3TIC2,M,1985-02-20,Belgique,Verviers,Belgique,Belgique,5651,WALCOURT,TARCIENNE,Ajournement,Admission,Admission,distinction
+737,deleted,Boris,1TIF2,M,1987-11-13,Belgique,Etterbeek,Belgique,Belgique,5530,YVOIR,SPONTIN,Admission,,Admission,satisfaction
+738,deleted,Xavier,1TIA1,M,1986-08-07,Belgique,Etterbeek,Belgique,Belgique,6890,LIBIN,SMUID,Ajournement,Refus,Refus,
+739,deleted,Nicolas,2TIC2,M,1985-12-12,Belgique,Etterbeek,Belgique,Belgique,1340,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES,Ajournement,Admission,Admission,satisfaction
+740,deleted,Nicolas,1TID2,M,1987-06-13,France,Sarreguemines,Belgique,Belgique,5030,GEMBLOUX,GEMBLOUX,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+741,deleted,Thibault,2TIB2,M,1983-04-14,Belgique,Charleroi,Belgique,Belgique,5542,HASTIERE,HASTIERE,Ajournement,Admission,Admission,satisfaction
+742,deleted,Eloïse,1TIF2,F,1986-05-15,Belgique,Liège,Belgique,Belgique,5020,NAMUR,FLAWINNE,Admission,,Admission,distinction
+743,deleted,Thibaut,1TIE1,M,1985-11-27,Belgique,MOUSCRON,Belgique,Belgique,1081,KOEKELBERG,BRUXELLES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+744,deleted,Sarah,2TIB2,F,1984-09-19,Belgique,Liège,Belgique,Belgique,4852,PLOMBIERES,HOMBOURG,Admission,,Admission,satisfaction
+745,deleted,Sebastiaan,2TIC1,M,1987-11-10,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,6900,MARCHE-en-FAMENNE,MARCHE-en-FAMENNE,Admission,,Admission,satisfaction
+746,deleted,Clément,3TIC1,M,1983-03-26,Belgique,Bastogne,Belgique,Belgique,7334,SAINT-GHISLAIN,HAUTRAGE,Admission,,Admission,satisfaction
+747,deleted,Luca,1TID2,M,1986-02-18,Belgique,Dinant,Belgique,Belgique,6001,CHARLEROI,MARCINELLE,Ajournement,Admission,Admission,satisfaction
+748,deleted,Thomas,2TIB2,M,1985-12-28,Belgique,Tournai,Belgique,Belgique,5620,FLORENNES,FLORENNES,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+749,deleted,Alexandros,2TIA3,M,1985-05-31,Belgique,Bruxelles,Belgique,Belgique,5000,Namur,Beez,Ajournement,Refus,Refus,
+750,deleted,Vincent,1TIB2,M,1988-06-13,Belgique,Uccle,Belgique,Belgique,5340,Gesves,Mozet,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+751,deleted,Benjamin,1TIB1,M,1987-06-29,Haïti,Saint-Michel de l'Attalaye,Belgique,Belgique,4480,ENGIS,ENGIS,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+752,deleted,Charlotte,2TIB3,F,1984-02-27,Belgique,Etterbeek,Belgique,Belgique,1731,ASSE,ZELLIK,Admission,,Admission,satisfaction
+753,deleted,Aurélye,1TIE2,F,1984-02-21,Belgique,Mouscron,Belgique,Belgique,1480,TUBIZE,TUBIZE,Ajournement,Refus,Refus,
+754,deleted,Yoann,3TIC2,M,1986-07-04,Belgique,Braine-l'Alleud,Belgique,Belgique,5660,COUVIN,COUVIN,Admission,,Admission,satisfaction
+755,deleted,Emilie,1TIC2,F,1986-10-07,Belgique,Charleroi,Belgique,Belgique,1435,MONT-SAINT-GUIBERT,CORBAIS,Admission,,Admission,satisfaction
+756,deleted,Romain,1TID2,M,1986-05-12,Belgique,MARCHE-EN-FAMENNE,Belgique,Belgique,1933,Zaventem,Sterrebeek,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+757,deleted,Anaëlle,3TIB1,F,1985-07-17,Belgique,Libramont-Chevigny,Belgique,Belgique,1348,Ottignies-Louvain-la-Neuve,Ottignies-Louvain-la-Neuve,Admission,,Admission,satisfaction
+758,deleted,William,1TIE2,M,1986-12-24,Belgique,Ixelles,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+759,deleted,Adrien,1TIE2,M,1986-12-24,Belgique,Charleroi,Belgique,Belgique,6700,ARLON,ARLON,Ajournement,Refus,Refus,
+760,deleted,Anthony,1TIC2,M,1986-10-20,Belgique,Charleroi,Belgique,Belgique,1300,Ottignies-Louvain-la-Neuve,Limal,Ajournement,Refus,Refus,
+761,deleted,Pierre,3TIB1,M,1986-02-26,Belgique,UCCLE,Belgique,Belgique,7784,COMINES-WARNETON,BAS-WARNETON,Ajournement,Admission,Admission,satisfaction
+762,deleted,Olivier,3TIA2,M,1986-01-14,Belgique,Bruxelles,Belgique,Belgique,1401,NIVELLES,BAULERS,Ajournement,Admission,Admission,distinction
+763,deleted,Antoine,3TIB2,M,1986-07-01,Belgique,SOIGNIES,Belgique,Belgique,4000,Liège,Liège,Ajournement,Admission,Admission,satisfaction
+764,deleted,Marie,1TIC2,F,1988-01-18,Belgique,Anderlecht,Belgique,Belgique,4520,WANZE,WANZE,Ajournement,Refus,Refus,
+765,deleted,Bernard,2TID1,M,1987-09-07,France,Carvin,France,Belgique,1160,AUDERGHEM,BRUXELLES,Ajournement,Refus,Refus,
+766,deleted,Nicolas,2TIC1,M,1984-05-02,Belgique,Namur,Belgique,Belgique,4460,HORION-HOZEMONT,HORION-HOZEMONT,Admission,,Admission,distinction
+767,deleted,Loïc,1TIA1,M,1984-07-30,Belgique,Jette,Belgique,Belgique,5330,ASSESSE,SART-BERNARD,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+768,deleted,Clément,1TIF1,M,1984-11-30,Belgique,Bruxelles,Belgique,Belgique,7740,PECQ,WARCOING,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+769,deleted,Guillaume,1TIE2,M,1987-06-25,Belgique,Ottignies-Louvain-la-Neuve,Belgique,Belgique,1081,KOEKELBERG,BRUXELLES,Ajournement,Refus,Refus,
+770,deleted,Alexis,2TIC2,M,1984-05-13,Belgique,Woluwe-Saint-Lambert,Belgique,Belgique,6140,FONTAINE L'EVEQUE,FONTAINE L'EVEQUE,Ajournement,Refus,Refus,
+771,deleted,Jack Robert,1TIA2,M,1987-11-17,Belgique,Soignies,Belgique,Belgique,7390,QUAREGNON,QUAREGNON,Ajournement,Refus,Refus,
+772,deleted,Frédéric,1TIE1,M,1987-02-23,Belgique,Bruxelles,Belgique,Belgique,5300,Andenne,Andenne,Ajournement,Refus,Refus,
+773,deleted,Aurélien,1TIA2,M,1984-03-25,Belgique,NAMUR,Belgique,Belgique,1420,BRAINE-L'ALLEUD,BRAINE-L'ALLEUD,Ajournement,Refus,Refus,
+774,deleted,Marine,2TIB3,F,1987-11-26,Belgique,MESSANCY,Belgique,Belgique,1150,Woluwe-Saint-Pierre,Bruxelles,Ajournement,Refus,Refus,
+775,deleted,Cédric,1TIF2,M,1987-09-01,Belgique,Charleroi,Belgique,Belgique,1800,VILVOORDE,VILVOORDE,Ajournement,Refus,Refus,
+776,deleted,Maïté,1TIA1,F,1987-07-24,Belgique,Namur,Belgique,Belgique,6594,MOMIGNIES,BEAUWELZ,Ajournement,Admission,Admission,satisfaction
+777,deleted,David,1TIA2,M,1985-01-25,Belgique,OUPEYE,Belgique,Belgique,5000,NAMUR,NAMUR,Ajournement,Refus,Refus,
+778,deleted,Caroline,2TIB3,F,1987-01-25,France,Valenciennes,Belgique,Belgique,1060,Bruxelles,Bruxelles,Ajournement,Admission,Admission,distinction
+779,deleted,Jérémy,2TIC2,M,1985-05-06,Belgique,Rocourt,Belgique,Belgique,5101,Namur,Erpent,Ajournement,Admission,Admission,distinction
+780,deleted,Johnny,1TID1,M,1984-10-11,Belgique,Uccle,Belgique,Belgique,1310,LA HULPE,LA HULPE,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+781,deleted,Thomas,1TIB1,M,1983-08-23,Belgique,Charleroi,Belgique,Belgique,5030,GEMBLOUX,BEUZET,Ajournement,Refus,Refus,
+782,deleted,Romain,2TID2,M,1986-05-28,Belgique,LIBRAMONT-CHEVIGNY,Belgique,Belgique,7100,La Louvière,La Louvière,Ajournement,Refus,Refus,
+783,deleted,Renaud,1TIF2,M,1985-01-13,Belgique,Bruxelles,Belgique,Belgique,5540,HASTIERE,WAULSORT,Ajournement,Admission,Admission,satisfaction
+784,deleted,Raphaël,2TIC2,M,1985-11-24,Luxembourg,Ettelbrück,Belgique,Belgique,6674,GOUVY,MONTLEBAN,Ajournement,Admission avec Crédits Résiduels,Admission avec Crédits Résiduels,satisfaction
+785,deleted,Sandro,3TIA1,M,1984-01-24,Belgique,Charleroi,Belgique,Belgique,6182,COURCELLES,SOUVRET,Ajournement,Admission,Admission,satisfaction
+786,deleted,Sébastien,1TIA1,M,1984-07-05,France,Pointe-à-Pitre,France,Belgique,4870,Trooz,Trooz,Ajournement,Refus,Refus,
+787,deleted,Maxime,2TID2,M,1984-12-06,Belgique,Charleroi,Belgique,Belgique,6953,Nassogne,Forrières,Ajournement,Refus,Refus,
+788,deleted,Sylvain,1TID1,M,1984-07-08,Belgique,Ottignies,Belgique,Belgique,6280,Gerpinnes,Gerpinnes,Ajournement,Refus,Refus,
+789,deleted,Nelson,3TIB1,M,1983-01-13,Belgique,Liège,Belgique,Belgique,6760,VIRTON,ETHE,Ajournement,Admission,Admission,satisfaction
+790,deleted,Smaïn,1TID2,M,1985-11-07,Belgique,Bruxelles,Belgique,Belgique,1410,Waterloo,Waterloo,Ajournement,Admission,Admission,satisfaction
+791,deleted,Jonathan,2TIA2,M,1985-03-01,Belgique,Etterbeek,Belgique,Belgique,6810,Chiny,Jamoigne,Ajournement,Refus,Refus,
+792,deleted,Jean-Philippe,3TIA2,M,1981-07-01,Belgique,ARLON,Belgique,Belgique,1170,WATERMAEL-BOITSFORT,BRUXELLES,Ajournement,Ajournement,Refus,
+793,deleted,Cédric,3TIA1,M,1985-01-19,Belgique,OUPEYE,Belgique,Belgique,1140,EVERE,BRUXELLES,Ajournement,Ajournement,Admission,distinction
+794,deleted,Dany,2TIA3,M,1983-01-18,Belgique,Etterbeek,Belgique,Belgique,6230,THIMEON,THIMEON,Ajournement,Refus,Refus,
+795,deleted,Simon,2TIA1,M,1983-02-08,Belgique,BERCHEM-SAINTE-AGATHE,Belgique,Belgique,1020,BRUXELLES,BRUXELLES,Ajournement,Refus,Refus,
+796,deleted,Kévin,2TIA2,M,1984-01-10,Chine,Zhejiang,Belgique,Belgique,5190,JEMEPPE-SUR-SAMBRE,SPY,Ajournement,Refus,Refus,
+797,deleted,Nicolas,1TIC1,M,1988-06-17,Belgique,Anderlecht,Belgique,Belgique,1140,BRUXELLES,BRUXELLES,Ajournement,Admission,Admission,satisfaction
+798,deleted,Frédéric,1TIB2,M,1988-06-30,Belgique,Charleroi,Belgique,Belgique,1490,COURT-SAINT-ETIENNE,COURT-SAINT-ETIENNE,Ajournement,Refus,Refus,
+799,deleted,Kim-Son,1TIB1,M,1988-10-13,Belgique,Bruxelles,Belgique,Belgique,1000,BRUXELLES,BRUXELLES,Admission,,Admission,distinction
+800,deleted,Arnaud,1TIC1,M,1986-09-30,Belgique,Liège,Belgique,Belgique,5310,EGHEZEE,WARET-LA-CHAUSSEE,Ajournement,Refus,Refus,
+801,deleted,Sébastien,1TIA2,M,1986-01-17,Allemagne,Troisdorf,Allemagne,Belgique,1340,OTTIGNIES-LOUVAIN-LA-NEUVE,OTTIGNIES,Hors Session,,Hors Session,
+802,deleted,Jérémy,3TIA2,M,1983-04-22,Belgique,Bastogne,Belgique,Belgique,1325,Chaumont-Gistoux,Chaumont-Gistoux,Ajournement,Ajournement,Admission,satisfaction
