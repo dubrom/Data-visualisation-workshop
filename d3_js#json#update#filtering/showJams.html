@@ -10,7 +10,7 @@
 <script>
   $(document).ready(
     function(){
-      const width=1200, height=800;
+      const width=1024, height=600;
       var widthFilter=0;
       var noFilter=1;
       var data={timestamp:"2014-03-07 13:06:09",value:[1600],id:"1000000"}, rawData;
@@ -24,12 +24,24 @@
       var refreshGraph = function() {
 	var circles=svg.selectAll("circle").data(data, keyFn);
 	var x = d3.time.scale()
-	  .range([10, width-20])
+	  .range([10, width-50])
 	  .domain(d3.extent(data, dateFn));
+	var xAxis = d3.svg.axis()
+	  .scale(x);
+	var xAxisGroup = svg.append("g")
+           .attr("transform", "translate(0," + (height-20).toString() + ")")
+           .call(xAxis);
+        //console.log("translate(0," + height-50 + ")");
 	var y = d3.scale
 	  .linear()
 	  .range([height-20, 10])
 	  .domain(d3.extent(data, redFn));
+	var yAxis = d3.svg.axis()
+	  .scale(y)
+          .orient("right");
+        var yAxisGroup = svg.append("g")
+           .attr("transform", "translate(" + (width-40).toString() + ",0)")
+           .call(yAxis);
 	  circles.enter()
 	  .append("svg:circle")
 	  .attr("r", 1)
@@ -116,7 +128,7 @@
 	    } catch(err){
 	      console.log("error at "+i);
 	    };
-	    item.value=[tempVal];
+	    item.value=[tempVal/1000.];
 	    result.push(item);
 	  });
 	return result;
@@ -141,7 +153,7 @@
 			  } catch(err){
 			    //console.log("error at "+i);
 			  };
-			  item.value=[tempVal];
+			  item.value=[tempVal/1000.];
 			  result.push(item);
 			});
 	return result;
