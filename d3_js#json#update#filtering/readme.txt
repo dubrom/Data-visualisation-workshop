@@ -14,3 +14,8 @@ le code est dans le html par souci de compacité
 d3.js n'est utilisé que pour la visualisation,
 jQuery pour toutes les autres fonctionnalités
 
+la démo est accessible à
+http://christian-delfosse.infographie-heaj.eu/Test/showJams.html
+
+le fichier peut être installé n'importe où (grâce à JSONP)
+
