@@ -1,0 +1,12 @@
+<html><head><title>Données école</title></head><body>
+<div id="toFill"></div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>
+$(document).ready(
+function(){
+$.getJSON("http://christian-delfosse.infographie-heaj.eu/Test/schoolJSON.php?callback=?",function(data){
+console.log(data.Y13_14[0]);
+});
+});
+</script>
+</body></html>
