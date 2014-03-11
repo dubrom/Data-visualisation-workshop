@@ -1,17 +1,27 @@
 <html><head><title>Traffic Jams</title></head>
 <body>
   <h1>Longueurs d'embouteillage dans Bruxelles, depuis vendredi midi</h1>
-<div> Moyenne mobile <select id="movingAverage"></select></div>
-  <div> Filtre digital<select id="digitalFilter"></select></div>
-<div id="demo"></div>
+<div style="height:100px;z-index:99;position:relative">
+<div id="movingAverage" style="width: 250px; float: left;">Moyenne mobile <select ></select></div>
+<div  id="digitalFilter" style="float: left;">Filtre digital<select></select></div></div>
+<div id="demo" style="position:fixed;top:50;z-index:0"></div>
 <div id="toFill"></div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script>
   $(document).ready(function(){
+
   function refreshGraph(){
-      svg.selectAll("g.y.axis").remove();
+      function zoom() {//http://bl.ocks.org/mbostock/3680999
+          var text="translate(" + d3.event.translate + ") scale(" + d3.event.scale + ")";
+          //console.log(text);
+          svg.select(".x.axis").call(xAxis);
+          svg.select(".y.axis").call(yAxis);
+          svg.selectAll("circle").attr("transform", text);
+          }
+      svg.selectAll("g.y.axis").remove();// WATCH OUT, d3.js is not jQuery, no spaces allowed
       svg.selectAll("g.x.axis").remove();
+
       var circles=svg.selectAll("circle").data(data, keyFn);
       var x = d3.time.scale()
               .range([10, width-50])
@@ -33,6 +43,8 @@
                .attr("transform", "translate(" + (width-40).toString() + ",0)")
                .attr("class", "y axis")
                .call(yAxis);
+      svg.call(d3.behavior.zoom().x(x).y(y).scaleExtent([1, 8]).on("zoom", zoom));
+      //circles
       circles.enter()
                .append("svg:circle")
                .attr("r", 1)
@@ -158,55 +170,44 @@
 	  });
 	  return result;
       }
-  function initAxis(svg){//http://stackoverflow.com/questions/16919280/how-to-update-axis-using-d3-js
-      // create fake axes such that the action of removing is succesful
-      const margin=0;
-	var y = d3.scale.linear().domain([0,1000]).range([height-margin, margin]).nice(),
-	    x = d3.scale.linear().domain([0,23]).range([margin,width-margin]),
-	    yAxis = d3.svg.axis().scale(y).orient("left"),
-	    xAxis = d3.svg.axis().scale(x).orient("bottom");
-
-	svg.append("g")
-	  .attr("class", "y axis")
-	  .attr("transform", "translate(" + margin + ",0)")
-          .call(yAxis);
-
-        svg.append("g")
-	  .attr("class", "x axis")
-	  .attr("transform", "translate(0," + (height - margin) + ")")
-          .call(xAxis);
-        }
 
   const width=1024, height=600;
   var widthFilter=0;
   var noFilter=1;
   var data={timestamp:"2014-03-07 13:06:09",value:[1600],id:"1000000"}, rawData;
   var format = d3.time.format("%Y-%m-%d %H:%M:%S");
-  var dateFn = function(d) { return format.parse(d.timestamp) };
+  //var dateFn = function(d) { return format.parse(d.timestamp) };
+  var dateFn = function(d) { var D= format.parse(d.timestamp); D.setHours(D.getHours()+1);return D; };// timestamp is recorded as UTC
   var keyFn=function(d){return d.id;};// make it such that old points leave the system
   var redFn=function(d){ return d.value[0];};
   var svg = d3.select("#demo").append("svg:svg")
             .attr("width", width)
             .attr("height", height);
-  initAxis(svg);
-  var selectOptions=$("#movingAverage");
-  var selectFilterOptions=$("#digitalFilter");
+  var selectOptions=$("#movingAverage").find("select");
+  var selectFilterOptions=$("#digitalFilter").find("select");
+  // fill in the select box
   $([{value:0,Name:"sans filtrage"},{value:3,Name:"5 minutes"},{value:7,Name:"15 minutes"},{value:15,Name:"30 minutes"},{value:29,Name:"une heure"}]).
 	each(function(i,option){
 	       selectOptions.append($("<option />").val(option.value).text(option.Name));
 	       });
-  selectOptions.change(
+  selectOptions
+     .attr("size",5)
+     .change(
 	function(){
 	  widthFilter=this.value;
 	  noFilter=widthFilter==0?1.0:0.5;
 	  data=processData(rawData);
 	  refreshGraph();
 	});
+  // fill in the select box
   $([{value:0,Name:"sans filtrage"},{value:3,Name:"comme 5 minutes"},{value:7,Name:"comme 15 minutes"},{value:15,Name:"comme 30 minutes"},{value:29,Name:"comme 1 heure"}]).
 	each(function(i,option){
 	       selectFilterOptions.append($("<option />").val(option.value).text(option.Name));
 	       });
-  selectFilterOptions.change(
+  selectFilterOptions
+     .addClass("selbox")
+     .attr("size",5)
+     .change(
 	function(){
 	  widthFilter=this.value;
 	  noFilter=widthFilter==0?1.0:0.5;
