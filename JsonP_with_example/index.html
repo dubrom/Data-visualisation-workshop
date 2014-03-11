@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="HandheldFriendly" content="True">
+		
+		<title>JSONP example - DataViz-05</title>
+
+		<style type="text/css">
+
+		body {
+			font-family: Helvetica;
+		}
+		*, *:before, *:after {
+			-webkit-box-sizing: border-box; 
+			-moz-box-sizing: border-box; 
+			box-sizing: border-box;
+		}
+
+		div.bar {
+			display: inline-block;
+			padding: 10px;
+			border: 1px solid black;
+			background: red;
+			text-align: right;
+			margin: 10px;
+		}
+
+		ul {
+			list-style-type: none;
+		}
+
+		li span {
+			font-weight: bold;
+			font-size: 1.5em;
+		}
+
+		</style>
+
+	</head>
+	<body>
+		<h1>Population étudiante</h1>
+		<h2>Année après année, de plus en plus...</h2>
+
+
+		<ul id="years">
+
+
+		</ul>
+
+		<p>Mais où cela s'arrêtera-t-il ?</p>
+
+		<!-- Vu qu'on a affaire à un JSONP (avec un P comme dans Patrick), on peut l'intégrer directement avec une balise script... -->
+		<script type="text/javascript" src="schoolData.js"></script>
+
+
+		<script type="text/javascript">
+
+		// compter le nombre d'années dans le dataset
+		var numYears = _years.length;
+
+		// trouver la liste où l'on va ajouter le graphique
+		var list = document.getElementById("years");
+
+		// boucler sur chaque année
+		for( var i=0; i<numYears; i++) {
+
+			// compter les étudiants
+			var total = _data[ _years[i] ].length;
+
+			// créer un item pour la liste
+			var li = document.createElement("LI");
+
+			// créer un span pour y mettre l'intitulé de l'année
+			var label = document.createElement("SPAN");
+
+			// y mettre l'intitulé de l'année :)
+			label.innerHTML = _years[i]; 
+
+			// créer une nouvelle div qui va devenir une barre
+			var div = document.createElement("DIV");
+			// lui donner une classe top classe
+			div.className = "bar";
+			// mettre dans la barre le nom d'étudiants
+			div.innerHTML = total;
+			// dimensionner la barre en fonction de la valeur 
+			div.style.width = (total/2) + "px";
+
+			// ajouter le <span> et la <div> dans le <li>
+			li.appendChild(label);
+			li.appendChild(div);
+
+			// ajouter le <li> dans le <ul>
+			list.appendChild(li);
+		}
+
+		</script>
+
+	</body>
+</html>
