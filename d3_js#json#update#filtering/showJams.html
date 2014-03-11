@@ -11,6 +11,12 @@
 <script>
   $(document).ready(function(){
 
+  function dataOfInterest(dataObject){
+      var d=dataObject.jsonData;
+      //return dataObject.jsonData.RED;
+      textExpression="d.RED+d.ORANGE/1.5";
+      return eval(textExpression);
+      }
   function refreshGraph(){
       function zoom() {//http://bl.ocks.org/mbostock/3680999
           var text="translate(" + d3.event.translate + ") scale(" + d3.event.scale + ")";
@@ -117,7 +123,7 @@
 	function(i,objectValue){
 	  if (i<widthFilter)
 	    return;
-	  var item=new Object(), tempVal=objectValue.jsonData.RED;
+	  var item=new Object(), tempVal=dataOfInterest(objectValue);
 	  var accu=0;
 	  item.timestamp=objectValue.timestamp;
 	  item.id=widthFilter.toString()+"_"+objectValue.id.toString();
@@ -125,7 +131,7 @@
 	      tempVal=tempVal;
 	  else try {
 	      for (j=0;j<widthFilter;j++)
-		accu+=rawData[i-j].jsonData.RED*currentFilter[j];
+		accu+=dataOfInterest(rawData[i-j])*currentFilter[j];
 	      tempVal=accu;
 	      } catch(err){
 	      //console.log("error at "+i);
@@ -138,7 +144,7 @@
   function processData(rawData){// apply a moving average
 	result=[];
 	$(rawData).each(function(i,objectValue){
-			  var item=new Object(), tempVal=objectValue.jsonData.RED;
+			  var item=new Object(), tempVal=dataOfInterest(objectValue);
 			  var accu=0;
 			  item.timestamp=objectValue.timestamp;
 			  item.id=widthFilter.toString()+"_"+objectValue.id.toString();// when a filter is applied, points get a new id
@@ -147,7 +153,7 @@
 			      tempVal=tempVal;
 			    else {
 			      for (j=-Math.floor(widthFilter/2);j<Math.ceil(widthFilter/2);j++){
-				accu+=rawData[i+j].jsonData.RED;
+				accu+=dataOfInterest(rawData[i+j]);
 			      }
 			      tempVal=accu/widthFilter;
 			    }
@@ -172,6 +178,7 @@
       }
 
   const width=1024, height=600;
+  var textExpression="";
   var widthFilter=0;
   var noFilter=1;
   var data={timestamp:"2014-03-07 13:06:09",value:[1600],id:"1000000"}, rawData;
@@ -183,6 +190,12 @@
   var svg = d3.select("#demo").append("svg:svg")
             .attr("width", width)
             .attr("height", height);
+      svg.append("text")//http://www.d3noob.org/2013/01/adding-title-to-your-d3js-graph.html
+        .attr("x", (width / 8))
+        .attr("y", 150)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .style("text-decoration", "underline");
   var selectOptions=$("#movingAverage").find("select");
   var selectFilterOptions=$("#digitalFilter").find("select");
   // fill in the select box
@@ -219,6 +232,7 @@
 		  rawData=conditionData(jsonMobility.all.slice(0,-1));
 		  data=processData(rawData);
 		  //console.log(data);
+                  svg.selectAll("text").text(textExpression);
 		  refreshGraph();
 		});
     });
